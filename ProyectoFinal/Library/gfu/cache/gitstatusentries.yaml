@@ -1,0 +1,614 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2022-05-18T10:15:01.437-05:00
+  initializedAtString: 2022-05-18T09:15:31.733-05:00
+  entries:
+  - path: Assets\Resources\&.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\&.png
+    projectPath: Assets\Resources\&.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\&.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\&.png.meta
+    projectPath: Assets\Resources\&.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\arbusto.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\arbusto.png
+    projectPath: Assets\Resources\arbusto.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\arbusto.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\arbusto.png.meta
+    projectPath: Assets\Resources\arbusto.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\bordeAnimales.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\bordeAnimales.png
+    projectPath: Assets\Resources\bordeAnimales.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\bordeAnimales.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\bordeAnimales.png.meta
+    projectPath: Assets\Resources\bordeAnimales.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Fondos\fondo.jpg
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Fondos\fondo.jpg
+    projectPath: Assets\Resources\Fondos\fondo.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Fondos\fondo.jpg.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Fondos\fondo.jpg.meta
+    projectPath: Assets\Resources\Fondos\fondo.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Fondos\principal.jpg
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Fondos\principal.jpg
+    projectPath: Assets\Resources\Fondos\principal.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Fondos\principal.jpg.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Fondos\principal.jpg.meta
+    projectPath: Assets\Resources\Fondos\principal.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\gradientWhrite.jpg
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\gradientWhrite.jpg
+    projectPath: Assets\Resources\gradientWhrite.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\gradientWhrite.jpg.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\gradientWhrite.jpg.meta
+    projectPath: Assets\Resources\gradientWhrite.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\LogoPrincipal.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\LogoPrincipal.png
+    projectPath: Assets\Resources\LogoPrincipal.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\LogoPrincipal.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\LogoPrincipal.png.meta
+    projectPath: Assets\Resources\LogoPrincipal.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\nube.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\nube.png
+    projectPath: Assets\Resources\nube.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\nube.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\nube.png.meta
+    projectPath: Assets\Resources\nube.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\nuevoJugador.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\nuevoJugador.png
+    projectPath: Assets\Resources\nuevoJugador.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\nuevoJugador.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\nuevoJugador.png.meta
+    projectPath: Assets\Resources\nuevoJugador.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\numeros.jpg
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\numeros.jpg
+    projectPath: Assets\Resources\numeros.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\numeros.jpg.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\numeros.jpg.meta
+    projectPath: Assets\Resources\numeros.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\numeros.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\numeros.png
+    projectPath: Assets\Resources\numeros.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\numeros.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\numeros.png.meta
+    projectPath: Assets\Resources\numeros.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Sound.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound.meta
+    projectPath: Assets\Resources\Sound.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Sound\appear-online.ogg
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\appear-online.ogg
+    projectPath: Assets\Resources\Sound\appear-online.ogg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Sound\appear-online.ogg.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\appear-online.ogg.meta
+    projectPath: Assets\Resources\Sound\appear-online.ogg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Sound\bird_song_1.flac
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\bird_song_1.flac
+    projectPath: Assets\Resources\Sound\bird_song_1.flac
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Sound\bird_song_1.flac.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\bird_song_1.flac.meta
+    projectPath: Assets\Resources\Sound\bird_song_1.flac.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Sound\click.ogg
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\click.ogg
+    projectPath: Assets\Resources\Sound\click.ogg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Sound\click.ogg.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\click.ogg.meta
+    projectPath: Assets\Resources\Sound\click.ogg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Sound\click2.ogg
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\click2.ogg
+    projectPath: Assets\Resources\Sound\click2.ogg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Sound\click2.ogg.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\click2.ogg.meta
+    projectPath: Assets\Resources\Sound\click2.ogg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Sound\click3.ogg
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\click3.ogg
+    projectPath: Assets\Resources\Sound\click3.ogg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Sound\click3.ogg.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\click3.ogg.meta
+    projectPath: Assets\Resources\Sound\click3.ogg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Sound\click4.ogg
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\click4.ogg
+    projectPath: Assets\Resources\Sound\click4.ogg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Sound\click4.ogg.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\click4.ogg.meta
+    projectPath: Assets\Resources\Sound\click4.ogg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Sound\click5.ogg
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\click5.ogg
+    projectPath: Assets\Resources\Sound\click5.ogg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Sound\click5.ogg.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\click5.ogg.meta
+    projectPath: Assets\Resources\Sound\click5.ogg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Sound\click6.ogg
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\click6.ogg
+    projectPath: Assets\Resources\Sound\click6.ogg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Sound\click6.ogg.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\click6.ogg.meta
+    projectPath: Assets\Resources\Sound\click6.ogg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Sound\click7.ogg
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\click7.ogg
+    projectPath: Assets\Resources\Sound\click7.ogg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Sound\click7.ogg.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\click7.ogg.meta
+    projectPath: Assets\Resources\Sound\click7.ogg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Sound\completetask_0.mp3
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\completetask_0.mp3
+    projectPath: Assets\Resources\Sound\completetask_0.mp3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Sound\completetask_0.mp3.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\completetask_0.mp3.meta
+    projectPath: Assets\Resources\Sound\completetask_0.mp3.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Sound\cut.ogg
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\cut.ogg
+    projectPath: Assets\Resources\Sound\cut.ogg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Sound\cut.ogg.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\cut.ogg.meta
+    projectPath: Assets\Resources\Sound\cut.ogg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Sound\drop.ogg
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\drop.ogg
+    projectPath: Assets\Resources\Sound\drop.ogg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Sound\drop.ogg.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\drop.ogg.meta
+    projectPath: Assets\Resources\Sound\drop.ogg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Sound\dustbin.ogg
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\dustbin.ogg
+    projectPath: Assets\Resources\Sound\dustbin.ogg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Sound\dustbin.ogg.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\dustbin.ogg.meta
+    projectPath: Assets\Resources\Sound\dustbin.ogg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Sound\hexahop 1.flac
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\hexahop
+      1.flac
+    projectPath: Assets\Resources\Sound\hexahop 1.flac
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Sound\hexahop 1.flac.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\hexahop
+      1.flac.meta
+    projectPath: Assets\Resources\Sound\hexahop 1.flac.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Sound\hexahop 2.flac
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\hexahop
+      2.flac
+    projectPath: Assets\Resources\Sound\hexahop 2.flac
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Sound\hexahop 2.flac.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\hexahop
+      2.flac.meta
+    projectPath: Assets\Resources\Sound\hexahop 2.flac.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Sound\hexahop 3.flac
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\hexahop
+      3.flac
+    projectPath: Assets\Resources\Sound\hexahop 3.flac
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Sound\hexahop 3.flac.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\hexahop
+      3.flac.meta
+    projectPath: Assets\Resources\Sound\hexahop 3.flac.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Sound\interface.zip
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\interface.zip
+    projectPath: Assets\Resources\Sound\interface.zip
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Sound\interface.zip.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\interface.zip.meta
+    projectPath: Assets\Resources\Sound\interface.zip.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Sound\leo the kids theme.mp3
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\leo
+      the kids theme.mp3
+    projectPath: Assets\Resources\Sound\leo the kids theme.mp3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Sound\leo the kids theme.mp3.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\leo
+      the kids theme.mp3.meta
+    projectPath: Assets\Resources\Sound\leo the kids theme.mp3.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Sound\message.ogg
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\message.ogg
+    projectPath: Assets\Resources\Sound\message.ogg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Sound\message.ogg.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\message.ogg.meta
+    projectPath: Assets\Resources\Sound\message.ogg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Sound\mushroom dance.flp
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\mushroom
+      dance.flp
+    projectPath: Assets\Resources\Sound\mushroom dance.flp
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Sound\mushroom dance.flp.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\mushroom
+      dance.flp.meta
+    projectPath: Assets\Resources\Sound\mushroom dance.flp.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Sound\mushroom dance_0.ogg
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\mushroom
+      dance_0.ogg
+    projectPath: Assets\Resources\Sound\mushroom dance_0.ogg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Sound\mushroom dance_0.ogg.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\mushroom
+      dance_0.ogg.meta
+    projectPath: Assets\Resources\Sound\mushroom dance_0.ogg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Sound\snap.ogg
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\snap.ogg
+    projectPath: Assets\Resources\Sound\snap.ogg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Sound\snap.ogg.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\snap.ogg.meta
+    projectPath: Assets\Resources\Sound\snap.ogg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Sound\snap1.ogg
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\snap1.ogg
+    projectPath: Assets\Resources\Sound\snap1.ogg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Sound\snap1.ogg.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\snap1.ogg.meta
+    projectPath: Assets\Resources\Sound\snap1.ogg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Sound\snap2.ogg
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\snap2.ogg
+    projectPath: Assets\Resources\Sound\snap2.ogg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Sound\snap2.ogg.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\snap2.ogg.meta
+    projectPath: Assets\Resources\Sound\snap2.ogg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Sound\story time.ogg
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\story
+      time.ogg
+    projectPath: Assets\Resources\Sound\story time.ogg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Sound\story time.ogg.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\story
+      time.ogg.meta
+    projectPath: Assets\Resources\Sound\story time.ogg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\vocales.jpg
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\vocales.jpg
+    projectPath: Assets\Resources\vocales.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\vocales.jpg.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\vocales.jpg.meta
+    projectPath: Assets\Resources\vocales.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\vocales.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\vocales.png
+    projectPath: Assets\Resources\vocales.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\vocales.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\vocales.png.meta
+    projectPath: Assets\Resources\vocales.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\EscenaSeleccionNumero.unity
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Scenes\EscenaSeleccionNumero.unity
+    projectPath: Assets\Scenes\EscenaSeleccionNumero.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\EscenaSeleccionNumero.unity.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Scenes\EscenaSeleccionNumero.unity.meta
+    projectPath: Assets\Scenes\EscenaSeleccionNumero.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\EscenaSeleccionVocal.unity
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Scenes\EscenaSeleccionVocal.unity
+    projectPath: Assets\Scenes\EscenaSeleccionVocal.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\EscenaSeleccionVocal.unity.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Scenes\EscenaSeleccionVocal.unity.meta
+    projectPath: Assets\Scenes\EscenaSeleccionVocal.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Menu.unity
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Scenes\Menu.unity
+    projectPath: Assets\Scenes\Menu.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Menu.unity.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Scenes\Menu.unity.meta
+    projectPath: Assets\Scenes\Menu.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\MenuPrincipal.unity
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Scenes\MenuPrincipal.unity
+    projectPath: Assets\Scenes\MenuPrincipal.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Script.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Script.meta
+    projectPath: Assets\Script.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Script\ScriptMenuPrincipal.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Script\ScriptMenuPrincipal.meta
+    projectPath: Assets\Script\ScriptMenuPrincipal.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Script\ScriptMenuPrincipal\GameManager.cs
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Script\ScriptMenuPrincipal\GameManager.cs
+    projectPath: Assets\Script\ScriptMenuPrincipal\GameManager.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Script\ScriptMenuPrincipal\GameManager.cs.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Script\ScriptMenuPrincipal\GameManager.cs.meta
+    projectPath: Assets\Script\ScriptMenuPrincipal\GameManager.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Script\ScriptMenuPrincipal\ScriptBtnNumeros.cs
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Script\ScriptMenuPrincipal\ScriptBtnNumeros.cs
+    projectPath: Assets\Script\ScriptMenuPrincipal\ScriptBtnNumeros.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Script\ScriptMenuPrincipal\ScriptBtnNumeros.cs.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Script\ScriptMenuPrincipal\ScriptBtnNumeros.cs.meta
+    projectPath: Assets\Script\ScriptMenuPrincipal\ScriptBtnNumeros.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Script\ScriptMenuPrincipal\ScriptBtnVocales.cs
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Script\ScriptMenuPrincipal\ScriptBtnVocales.cs
+    projectPath: Assets\Script\ScriptMenuPrincipal\ScriptBtnVocales.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Script\ScriptMenuPrincipal\ScriptBtnVocales.cs.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Script\ScriptMenuPrincipal\ScriptBtnVocales.cs.meta
+    projectPath: Assets\Script\ScriptMenuPrincipal\ScriptBtnVocales.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Script\ScriptMenuPrincipal\ScriptDropdownJugador.cs
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Script\ScriptMenuPrincipal\ScriptDropdownJugador.cs
+    projectPath: Assets\Script\ScriptMenuPrincipal\ScriptDropdownJugador.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Script\ScriptMenuPrincipal\ScriptDropdownJugador.cs.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Script\ScriptMenuPrincipal\ScriptDropdownJugador.cs.meta
+    projectPath: Assets\Script\ScriptMenuPrincipal\ScriptDropdownJugador.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sound.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Sound.meta
+    projectPath: Assets\Sound.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\EditorBuildSettings.asset
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: UserSettings\EditorUserSettings.asset
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\UserSettings\EditorUserSettings.asset
+    projectPath: UserSettings\EditorUserSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
