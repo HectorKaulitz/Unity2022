@@ -8,13 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Menu.unity
     guid: a9bcb3a0e7e3c7a4796331c1be7e06c0
-  - enabled: 0
-    path: Assets/Scenes/MenuPrincipal.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/EscenaSeleccionVocal.unity
+    path: Assets/Scenes/EscenaSeleccion.unity
     guid: 115ba25f9456dc74bbba5821c0e43652
   - enabled: 1
-    path: Assets/Scenes/EscenaSeleccionNumero.unity
-    guid: 9d1cbf3998c6aed4abc3ad9a25e41887
+    path: Assets/Scenes/Configuracion.unity
+    guid: 5ed37ca155be218478a8812540c3d10d
   m_configObjects: {}

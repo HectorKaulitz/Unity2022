@@ -13,600 +13,2703 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2022-05-18T10:15:01.437-05:00
-  initializedAtString: 2022-05-18T09:15:31.733-05:00
+  lastUpdatedAtString: 2022-05-27T08:34:06.274-05:00
+  initializedAtString: 2022-05-27T08:33:26.387-05:00
   entries:
-  - path: Assets\Resources\&.png
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\&.png
-    projectPath: Assets\Resources\&.png
+  - path: ProyectoFinal\Assets\Resources\Botones.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Botones.meta
+    projectPath: Assets\Resources\Botones.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\&.png.meta
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\&.png.meta
-    projectPath: Assets\Resources\&.png.meta
+  - path: ProyectoFinal\Assets\Resources\Botones\configuracion.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Botones\configuracion.png
+    projectPath: Assets\Resources\Botones\configuracion.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\arbusto.png
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\arbusto.png
-    projectPath: Assets\Resources\arbusto.png
+  - path: ProyectoFinal\Assets\Resources\Botones\configuracion.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Botones\configuracion.png.meta
+    projectPath: Assets\Resources\Botones\configuracion.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\arbusto.png.meta
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\arbusto.png.meta
-    projectPath: Assets\Resources\arbusto.png.meta
+  - path: ProyectoFinal\Assets\Resources\Botones\configuracionCuadrado.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Botones\configuracionCuadrado.png
+    projectPath: Assets\Resources\Botones\configuracionCuadrado.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\bordeAnimales.png
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\bordeAnimales.png
-    projectPath: Assets\Resources\bordeAnimales.png
+  - path: ProyectoFinal\Assets\Resources\Botones\configuracionCuadrado.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Botones\configuracionCuadrado.png.meta
+    projectPath: Assets\Resources\Botones\configuracionCuadrado.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\bordeAnimales.png.meta
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\bordeAnimales.png.meta
-    projectPath: Assets\Resources\bordeAnimales.png.meta
+  - path: ProyectoFinal\Assets\Resources\Botones\configuracionOscuro.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Botones\configuracionOscuro.png
+    projectPath: Assets\Resources\Botones\configuracionOscuro.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Fondos\fondo.jpg
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Fondos\fondo.jpg
-    projectPath: Assets\Resources\Fondos\fondo.jpg
+  - path: ProyectoFinal\Assets\Resources\Botones\configuracionOscuro.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Botones\configuracionOscuro.png.meta
+    projectPath: Assets\Resources\Botones\configuracionOscuro.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Fondos\fondo.jpg.meta
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Fondos\fondo.jpg.meta
-    projectPath: Assets\Resources\Fondos\fondo.jpg.meta
+  - path: ProyectoFinal\Assets\Resources\Botones\configuratioAmarillo.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Botones\configuratioAmarillo.png
+    projectPath: Assets\Resources\Botones\configuratioAmarillo.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Fondos\principal.jpg
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Fondos\principal.jpg
-    projectPath: Assets\Resources\Fondos\principal.jpg
+  - path: ProyectoFinal\Assets\Resources\Botones\configuratioAmarillo.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Botones\configuratioAmarillo.png.meta
+    projectPath: Assets\Resources\Botones\configuratioAmarillo.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Fondos\principal.jpg.meta
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Fondos\principal.jpg.meta
-    projectPath: Assets\Resources\Fondos\principal.jpg.meta
+  - path: ProyectoFinal\Assets\Resources\Botones\configuration.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Botones\configuration.png
+    projectPath: Assets\Resources\Botones\configuration.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\gradientWhrite.jpg
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\gradientWhrite.jpg
-    projectPath: Assets\Resources\gradientWhrite.jpg
+  - path: ProyectoFinal\Assets\Resources\Botones\configuration.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Botones\configuration.png.meta
+    projectPath: Assets\Resources\Botones\configuration.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\gradientWhrite.jpg.meta
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\gradientWhrite.jpg.meta
-    projectPath: Assets\Resources\gradientWhrite.jpg.meta
+  - path: ProyectoFinal\Assets\Resources\Botones\configurationMult.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Botones\configurationMult.png
+    projectPath: Assets\Resources\Botones\configurationMult.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\LogoPrincipal.png
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\LogoPrincipal.png
-    projectPath: Assets\Resources\LogoPrincipal.png
+  - path: ProyectoFinal\Assets\Resources\Botones\configurationMult.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Botones\configurationMult.png.meta
+    projectPath: Assets\Resources\Botones\configurationMult.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\LogoPrincipal.png.meta
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\LogoPrincipal.png.meta
-    projectPath: Assets\Resources\LogoPrincipal.png.meta
+  - path: ProyectoFinal\Assets\Resources\Botones\next.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Botones\next.png
+    projectPath: Assets\Resources\Botones\next.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\nube.png
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\nube.png
-    projectPath: Assets\Resources\nube.png
+  - path: ProyectoFinal\Assets\Resources\Botones\next.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Botones\next.png.meta
+    projectPath: Assets\Resources\Botones\next.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\nube.png.meta
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\nube.png.meta
-    projectPath: Assets\Resources\nube.png.meta
+  - path: ProyectoFinal\Assets\Resources\Botones\preview.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Botones\preview.png
+    projectPath: Assets\Resources\Botones\preview.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\nuevoJugador.png
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\nuevoJugador.png
-    projectPath: Assets\Resources\nuevoJugador.png
+  - path: ProyectoFinal\Assets\Resources\Botones\preview.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Botones\preview.png.meta
+    projectPath: Assets\Resources\Botones\preview.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\nuevoJugador.png.meta
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\nuevoJugador.png.meta
-    projectPath: Assets\Resources\nuevoJugador.png.meta
+  - path: ProyectoFinal\Assets\Resources\Botones\Salir.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Botones\Salir.png
+    projectPath: Assets\Resources\Botones\Salir.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\numeros.jpg
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\numeros.jpg
-    projectPath: Assets\Resources\numeros.jpg
+  - path: ProyectoFinal\Assets\Resources\Botones\Salir.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Botones\Salir.png.meta
+    projectPath: Assets\Resources\Botones\Salir.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\numeros.jpg.meta
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\numeros.jpg.meta
-    projectPath: Assets\Resources\numeros.jpg.meta
+  - path: ProyectoFinal\Assets\Resources\Fondos\fondoSeleccion.jpg
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Fondos\fondoSeleccion.jpg
+    projectPath: Assets\Resources\Fondos\fondoSeleccion.jpg
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\numeros.png
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\numeros.png
-    projectPath: Assets\Resources\numeros.png
+  - path: ProyectoFinal\Assets\Resources\Fondos\fondoSeleccion.jpg.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Fondos\fondoSeleccion.jpg.meta
+    projectPath: Assets\Resources\Fondos\fondoSeleccion.jpg.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\numeros.png.meta
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\numeros.png.meta
-    projectPath: Assets\Resources\numeros.png.meta
+  - path: ProyectoFinal\Assets\Resources\Numeros.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Numeros.meta
+    projectPath: Assets\Resources\Numeros.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Sound.meta
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound.meta
-    projectPath: Assets\Resources\Sound.meta
+  - path: ProyectoFinal\Assets\Resources\Numeros Agrupacion.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Numeros
+      Agrupacion.meta
+    projectPath: Assets\Resources\Numeros Agrupacion.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Sound\appear-online.ogg
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\appear-online.ogg
-    projectPath: Assets\Resources\Sound\appear-online.ogg
+  - path: ProyectoFinal\Assets\Resources\Numeros Puntaje.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Numeros
+      Puntaje.meta
+    projectPath: Assets\Resources\Numeros Puntaje.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Sound\appear-online.ogg.meta
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\appear-online.ogg.meta
-    projectPath: Assets\Resources\Sound\appear-online.ogg.meta
+  - path: ProyectoFinal\Assets\Resources\Numeros Puntaje\cero.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Numeros
+      Puntaje\cero.png
+    projectPath: Assets\Resources\Numeros Puntaje\cero.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Sound\bird_song_1.flac
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\bird_song_1.flac
-    projectPath: Assets\Resources\Sound\bird_song_1.flac
+  - path: ProyectoFinal\Assets\Resources\Numeros Puntaje\cero.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Numeros
+      Puntaje\cero.png.meta
+    projectPath: Assets\Resources\Numeros Puntaje\cero.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Sound\bird_song_1.flac.meta
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\bird_song_1.flac.meta
-    projectPath: Assets\Resources\Sound\bird_song_1.flac.meta
+  - path: ProyectoFinal\Assets\Resources\Numeros Puntaje\cinco.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Numeros
+      Puntaje\cinco.png
+    projectPath: Assets\Resources\Numeros Puntaje\cinco.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Sound\click.ogg
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\click.ogg
-    projectPath: Assets\Resources\Sound\click.ogg
+  - path: ProyectoFinal\Assets\Resources\Numeros Puntaje\cinco.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Numeros
+      Puntaje\cinco.png.meta
+    projectPath: Assets\Resources\Numeros Puntaje\cinco.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Sound\click.ogg.meta
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\click.ogg.meta
-    projectPath: Assets\Resources\Sound\click.ogg.meta
+  - path: ProyectoFinal\Assets\Resources\Numeros Puntaje\cuatro.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Numeros
+      Puntaje\cuatro.png
+    projectPath: Assets\Resources\Numeros Puntaje\cuatro.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Sound\click2.ogg
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\click2.ogg
-    projectPath: Assets\Resources\Sound\click2.ogg
+  - path: ProyectoFinal\Assets\Resources\Numeros Puntaje\cuatro.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Numeros
+      Puntaje\cuatro.png.meta
+    projectPath: Assets\Resources\Numeros Puntaje\cuatro.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Sound\click2.ogg.meta
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\click2.ogg.meta
-    projectPath: Assets\Resources\Sound\click2.ogg.meta
+  - path: ProyectoFinal\Assets\Resources\Numeros Puntaje\dos.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Numeros
+      Puntaje\dos.png
+    projectPath: Assets\Resources\Numeros Puntaje\dos.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Sound\click3.ogg
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\click3.ogg
-    projectPath: Assets\Resources\Sound\click3.ogg
+  - path: ProyectoFinal\Assets\Resources\Numeros Puntaje\dos.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Numeros
+      Puntaje\dos.png.meta
+    projectPath: Assets\Resources\Numeros Puntaje\dos.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Sound\click3.ogg.meta
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\click3.ogg.meta
-    projectPath: Assets\Resources\Sound\click3.ogg.meta
+  - path: ProyectoFinal\Assets\Resources\Numeros Puntaje\nueve.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Numeros
+      Puntaje\nueve.png
+    projectPath: Assets\Resources\Numeros Puntaje\nueve.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Sound\click4.ogg
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\click4.ogg
-    projectPath: Assets\Resources\Sound\click4.ogg
+  - path: ProyectoFinal\Assets\Resources\Numeros Puntaje\nueve.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Numeros
+      Puntaje\nueve.png.meta
+    projectPath: Assets\Resources\Numeros Puntaje\nueve.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Sound\click4.ogg.meta
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\click4.ogg.meta
-    projectPath: Assets\Resources\Sound\click4.ogg.meta
+  - path: ProyectoFinal\Assets\Resources\Numeros Puntaje\ocho.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Numeros
+      Puntaje\ocho.png
+    projectPath: Assets\Resources\Numeros Puntaje\ocho.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Sound\click5.ogg
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\click5.ogg
-    projectPath: Assets\Resources\Sound\click5.ogg
+  - path: ProyectoFinal\Assets\Resources\Numeros Puntaje\ocho.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Numeros
+      Puntaje\ocho.png.meta
+    projectPath: Assets\Resources\Numeros Puntaje\ocho.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Sound\click5.ogg.meta
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\click5.ogg.meta
-    projectPath: Assets\Resources\Sound\click5.ogg.meta
+  - path: ProyectoFinal\Assets\Resources\Numeros Puntaje\seis.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Numeros
+      Puntaje\seis.png
+    projectPath: Assets\Resources\Numeros Puntaje\seis.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Sound\click6.ogg
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\click6.ogg
-    projectPath: Assets\Resources\Sound\click6.ogg
+  - path: ProyectoFinal\Assets\Resources\Numeros Puntaje\seis.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Numeros
+      Puntaje\seis.png.meta
+    projectPath: Assets\Resources\Numeros Puntaje\seis.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Sound\click6.ogg.meta
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\click6.ogg.meta
-    projectPath: Assets\Resources\Sound\click6.ogg.meta
+  - path: ProyectoFinal\Assets\Resources\Numeros Puntaje\siete.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Numeros
+      Puntaje\siete.png
+    projectPath: Assets\Resources\Numeros Puntaje\siete.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Sound\click7.ogg
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\click7.ogg
-    projectPath: Assets\Resources\Sound\click7.ogg
+  - path: ProyectoFinal\Assets\Resources\Numeros Puntaje\siete.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Numeros
+      Puntaje\siete.png.meta
+    projectPath: Assets\Resources\Numeros Puntaje\siete.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Sound\click7.ogg.meta
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\click7.ogg.meta
-    projectPath: Assets\Resources\Sound\click7.ogg.meta
+  - path: ProyectoFinal\Assets\Resources\Numeros Puntaje\tres.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Numeros
+      Puntaje\tres.png
+    projectPath: Assets\Resources\Numeros Puntaje\tres.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Sound\completetask_0.mp3
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\completetask_0.mp3
-    projectPath: Assets\Resources\Sound\completetask_0.mp3
+  - path: ProyectoFinal\Assets\Resources\Numeros Puntaje\tres.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Numeros
+      Puntaje\tres.png.meta
+    projectPath: Assets\Resources\Numeros Puntaje\tres.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Sound\completetask_0.mp3.meta
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\completetask_0.mp3.meta
-    projectPath: Assets\Resources\Sound\completetask_0.mp3.meta
+  - path: ProyectoFinal\Assets\Resources\Numeros Puntaje\uno.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Numeros
+      Puntaje\uno.png
+    projectPath: Assets\Resources\Numeros Puntaje\uno.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Sound\cut.ogg
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\cut.ogg
-    projectPath: Assets\Resources\Sound\cut.ogg
+  - path: ProyectoFinal\Assets\Resources\Numeros Puntaje\uno.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Numeros
+      Puntaje\uno.png.meta
+    projectPath: Assets\Resources\Numeros Puntaje\uno.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Sound\cut.ogg.meta
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\cut.ogg.meta
-    projectPath: Assets\Resources\Sound\cut.ogg.meta
+  - path: ProyectoFinal\Assets\Resources\Numeros\0.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Numeros\0.png
+    projectPath: Assets\Resources\Numeros\0.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Sound\drop.ogg
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\drop.ogg
-    projectPath: Assets\Resources\Sound\drop.ogg
+  - path: ProyectoFinal\Assets\Resources\Numeros\0.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Numeros\0.png.meta
+    projectPath: Assets\Resources\Numeros\0.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Sound\drop.ogg.meta
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\drop.ogg.meta
-    projectPath: Assets\Resources\Sound\drop.ogg.meta
+  - path: ProyectoFinal\Assets\Resources\Numeros\1.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Numeros\1.png
+    projectPath: Assets\Resources\Numeros\1.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Sound\dustbin.ogg
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\dustbin.ogg
-    projectPath: Assets\Resources\Sound\dustbin.ogg
+  - path: ProyectoFinal\Assets\Resources\Numeros\1.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Numeros\1.png.meta
+    projectPath: Assets\Resources\Numeros\1.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Sound\dustbin.ogg.meta
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\dustbin.ogg.meta
-    projectPath: Assets\Resources\Sound\dustbin.ogg.meta
+  - path: ProyectoFinal\Assets\Resources\Numeros\2.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Numeros\2.png
+    projectPath: Assets\Resources\Numeros\2.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Sound\hexahop 1.flac
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\hexahop
-      1.flac
-    projectPath: Assets\Resources\Sound\hexahop 1.flac
+  - path: ProyectoFinal\Assets\Resources\Numeros\2.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Numeros\2.png.meta
+    projectPath: Assets\Resources\Numeros\2.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Sound\hexahop 1.flac.meta
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\hexahop
-      1.flac.meta
-    projectPath: Assets\Resources\Sound\hexahop 1.flac.meta
+  - path: ProyectoFinal\Assets\Resources\Numeros\3.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Numeros\3.png
+    projectPath: Assets\Resources\Numeros\3.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Sound\hexahop 2.flac
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\hexahop
-      2.flac
-    projectPath: Assets\Resources\Sound\hexahop 2.flac
+  - path: ProyectoFinal\Assets\Resources\Numeros\3.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Numeros\3.png.meta
+    projectPath: Assets\Resources\Numeros\3.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Sound\hexahop 2.flac.meta
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\hexahop
-      2.flac.meta
-    projectPath: Assets\Resources\Sound\hexahop 2.flac.meta
+  - path: ProyectoFinal\Assets\Resources\Numeros\4.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Numeros\4.png
+    projectPath: Assets\Resources\Numeros\4.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Sound\hexahop 3.flac
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\hexahop
-      3.flac
-    projectPath: Assets\Resources\Sound\hexahop 3.flac
+  - path: ProyectoFinal\Assets\Resources\Numeros\4.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Numeros\4.png.meta
+    projectPath: Assets\Resources\Numeros\4.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Sound\hexahop 3.flac.meta
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\hexahop
-      3.flac.meta
-    projectPath: Assets\Resources\Sound\hexahop 3.flac.meta
+  - path: ProyectoFinal\Assets\Resources\Numeros\5.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Numeros\5.png
+    projectPath: Assets\Resources\Numeros\5.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Sound\interface.zip
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\interface.zip
-    projectPath: Assets\Resources\Sound\interface.zip
+  - path: ProyectoFinal\Assets\Resources\Numeros\5.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Numeros\5.png.meta
+    projectPath: Assets\Resources\Numeros\5.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Sound\interface.zip.meta
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\interface.zip.meta
-    projectPath: Assets\Resources\Sound\interface.zip.meta
+  - path: ProyectoFinal\Assets\Resources\Numeros\6.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Numeros\6.png
+    projectPath: Assets\Resources\Numeros\6.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Sound\leo the kids theme.mp3
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\leo
-      the kids theme.mp3
-    projectPath: Assets\Resources\Sound\leo the kids theme.mp3
+  - path: ProyectoFinal\Assets\Resources\Numeros\6.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Numeros\6.png.meta
+    projectPath: Assets\Resources\Numeros\6.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Sound\leo the kids theme.mp3.meta
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\leo
-      the kids theme.mp3.meta
-    projectPath: Assets\Resources\Sound\leo the kids theme.mp3.meta
+  - path: ProyectoFinal\Assets\Resources\Numeros\7.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Numeros\7.png
+    projectPath: Assets\Resources\Numeros\7.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Sound\message.ogg
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\message.ogg
-    projectPath: Assets\Resources\Sound\message.ogg
+  - path: ProyectoFinal\Assets\Resources\Numeros\7.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Numeros\7.png.meta
+    projectPath: Assets\Resources\Numeros\7.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Sound\message.ogg.meta
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\message.ogg.meta
-    projectPath: Assets\Resources\Sound\message.ogg.meta
+  - path: ProyectoFinal\Assets\Resources\Numeros\8.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Numeros\8.png
+    projectPath: Assets\Resources\Numeros\8.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Sound\mushroom dance.flp
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\mushroom
-      dance.flp
-    projectPath: Assets\Resources\Sound\mushroom dance.flp
+  - path: ProyectoFinal\Assets\Resources\Numeros\8.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Numeros\8.png.meta
+    projectPath: Assets\Resources\Numeros\8.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Sound\mushroom dance.flp.meta
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\mushroom
-      dance.flp.meta
-    projectPath: Assets\Resources\Sound\mushroom dance.flp.meta
+  - path: ProyectoFinal\Assets\Resources\Numeros\9.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Numeros\9.png
+    projectPath: Assets\Resources\Numeros\9.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Sound\mushroom dance_0.ogg
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\mushroom
-      dance_0.ogg
-    projectPath: Assets\Resources\Sound\mushroom dance_0.ogg
+  - path: ProyectoFinal\Assets\Resources\Numeros\9.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Numeros\9.png.meta
+    projectPath: Assets\Resources\Numeros\9.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Sound\mushroom dance_0.ogg.meta
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\mushroom
-      dance_0.ogg.meta
-    projectPath: Assets\Resources\Sound\mushroom dance_0.ogg.meta
+  - path: ProyectoFinal\Assets\Resources\Objetos Agrupacion.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Objetos
+      Agrupacion.meta
+    projectPath: Assets\Resources\Objetos Agrupacion.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Sound\snap.ogg
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\snap.ogg
-    projectPath: Assets\Resources\Sound\snap.ogg
+  - path: ProyectoFinal\Assets\Resources\Objetos Agrupacion\balon.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Objetos
+      Agrupacion\balon.png
+    projectPath: Assets\Resources\Objetos Agrupacion\balon.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Sound\snap.ogg.meta
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\snap.ogg.meta
-    projectPath: Assets\Resources\Sound\snap.ogg.meta
+  - path: ProyectoFinal\Assets\Resources\Objetos Agrupacion\balon.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Objetos
+      Agrupacion\balon.png.meta
+    projectPath: Assets\Resources\Objetos Agrupacion\balon.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Sound\snap1.ogg
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\snap1.ogg
-    projectPath: Assets\Resources\Sound\snap1.ogg
+  - path: ProyectoFinal\Assets\Resources\Objetos Agrupacion\banana.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Objetos
+      Agrupacion\banana.png
+    projectPath: Assets\Resources\Objetos Agrupacion\banana.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Sound\snap1.ogg.meta
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\snap1.ogg.meta
-    projectPath: Assets\Resources\Sound\snap1.ogg.meta
+  - path: ProyectoFinal\Assets\Resources\Objetos Agrupacion\banana.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Objetos
+      Agrupacion\banana.png.meta
+    projectPath: Assets\Resources\Objetos Agrupacion\banana.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Sound\snap2.ogg
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\snap2.ogg
-    projectPath: Assets\Resources\Sound\snap2.ogg
+  - path: ProyectoFinal\Assets\Resources\Objetos Agrupacion\manzana.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Objetos
+      Agrupacion\manzana.png
+    projectPath: Assets\Resources\Objetos Agrupacion\manzana.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Sound\snap2.ogg.meta
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\snap2.ogg.meta
-    projectPath: Assets\Resources\Sound\snap2.ogg.meta
+  - path: ProyectoFinal\Assets\Resources\Objetos Agrupacion\manzana.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Objetos
+      Agrupacion\manzana.png.meta
+    projectPath: Assets\Resources\Objetos Agrupacion\manzana.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Sound\story time.ogg
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\story
-      time.ogg
-    projectPath: Assets\Resources\Sound\story time.ogg
+  - path: ProyectoFinal\Assets\Resources\Objetos Agrupacion\mono.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Objetos
+      Agrupacion\mono.png
+    projectPath: Assets\Resources\Objetos Agrupacion\mono.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Sound\story time.ogg.meta
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Sound\story
-      time.ogg.meta
-    projectPath: Assets\Resources\Sound\story time.ogg.meta
+  - path: ProyectoFinal\Assets\Resources\Objetos Agrupacion\mono.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Objetos
+      Agrupacion\mono.png.meta
+    projectPath: Assets\Resources\Objetos Agrupacion\mono.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\vocales.jpg
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\vocales.jpg
-    projectPath: Assets\Resources\vocales.jpg
+  - path: ProyectoFinal\Assets\Resources\Objetos Agrupacion\silla.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Objetos
+      Agrupacion\silla.png
+    projectPath: Assets\Resources\Objetos Agrupacion\silla.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\vocales.jpg.meta
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\vocales.jpg.meta
-    projectPath: Assets\Resources\vocales.jpg.meta
+  - path: ProyectoFinal\Assets\Resources\Objetos Agrupacion\silla.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Objetos
+      Agrupacion\silla.png.meta
+    projectPath: Assets\Resources\Objetos Agrupacion\silla.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\vocales.png
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\vocales.png
-    projectPath: Assets\Resources\vocales.png
+  - path: ProyectoFinal\Assets\Resources\Objetos Agrupacion\triciclo.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Objetos
+      Agrupacion\triciclo.png
+    projectPath: Assets\Resources\Objetos Agrupacion\triciclo.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\vocales.png.meta
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\vocales.png.meta
-    projectPath: Assets\Resources\vocales.png.meta
+  - path: ProyectoFinal\Assets\Resources\Objetos Agrupacion\triciclo.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Objetos
+      Agrupacion\triciclo.png.meta
+    projectPath: Assets\Resources\Objetos Agrupacion\triciclo.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Scenes\EscenaSeleccionNumero.unity
+  - path: ProyectoFinal\Assets\Resources\ObjetosVocales.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\ObjetosVocales.meta
+    projectPath: Assets\Resources\ObjetosVocales.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Resources\ObjetosVocales\abeja.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\ObjetosVocales\abeja.png
+    projectPath: Assets\Resources\ObjetosVocales\abeja.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Resources\ObjetosVocales\abeja.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\ObjetosVocales\abeja.png.meta
+    projectPath: Assets\Resources\ObjetosVocales\abeja.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Resources\ObjetosVocales\auto.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\ObjetosVocales\auto.png
+    projectPath: Assets\Resources\ObjetosVocales\auto.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Resources\ObjetosVocales\auto.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\ObjetosVocales\auto.png.meta
+    projectPath: Assets\Resources\ObjetosVocales\auto.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Resources\ObjetosVocales\elefante.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\ObjetosVocales\elefante.png
+    projectPath: Assets\Resources\ObjetosVocales\elefante.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Resources\ObjetosVocales\elefante.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\ObjetosVocales\elefante.png.meta
+    projectPath: Assets\Resources\ObjetosVocales\elefante.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Resources\ObjetosVocales\escalera.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\ObjetosVocales\escalera.png
+    projectPath: Assets\Resources\ObjetosVocales\escalera.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Resources\ObjetosVocales\escalera.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\ObjetosVocales\escalera.png.meta
+    projectPath: Assets\Resources\ObjetosVocales\escalera.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Resources\ObjetosVocales\igloo.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\ObjetosVocales\igloo.png
+    projectPath: Assets\Resources\ObjetosVocales\igloo.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Resources\ObjetosVocales\igloo.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\ObjetosVocales\igloo.png.meta
+    projectPath: Assets\Resources\ObjetosVocales\igloo.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Resources\ObjetosVocales\iguana.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\ObjetosVocales\iguana.png
+    projectPath: Assets\Resources\ObjetosVocales\iguana.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Resources\ObjetosVocales\iguana.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\ObjetosVocales\iguana.png.meta
+    projectPath: Assets\Resources\ObjetosVocales\iguana.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Resources\ObjetosVocales\orca.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\ObjetosVocales\orca.png
+    projectPath: Assets\Resources\ObjetosVocales\orca.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Resources\ObjetosVocales\orca.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\ObjetosVocales\orca.png.meta
+    projectPath: Assets\Resources\ObjetosVocales\orca.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Resources\ObjetosVocales\oso.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\ObjetosVocales\oso.png
+    projectPath: Assets\Resources\ObjetosVocales\oso.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Resources\ObjetosVocales\oso.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\ObjetosVocales\oso.png.meta
+    projectPath: Assets\Resources\ObjetosVocales\oso.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Resources\ObjetosVocales\unicornio.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\ObjetosVocales\unicornio.png
+    projectPath: Assets\Resources\ObjetosVocales\unicornio.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Resources\ObjetosVocales\unicornio.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\ObjetosVocales\unicornio.png.meta
+    projectPath: Assets\Resources\ObjetosVocales\unicornio.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Resources\Textos.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Textos.meta
+    projectPath: Assets\Resources\Textos.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Resources\Textos\txtNumero.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Textos\txtNumero.png
+    projectPath: Assets\Resources\Textos\txtNumero.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Resources\Textos\txtNumero.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Textos\txtNumero.png.meta
+    projectPath: Assets\Resources\Textos\txtNumero.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Resources\Textos\txtSeleccion.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Textos\txtSeleccion.png
+    projectPath: Assets\Resources\Textos\txtSeleccion.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Resources\Textos\txtSeleccion.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Textos\txtSeleccion.png.meta
+    projectPath: Assets\Resources\Textos\txtSeleccion.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Resources\Textos\txtVocal.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Textos\txtVocal.png
+    projectPath: Assets\Resources\Textos\txtVocal.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Resources\Textos\txtVocal.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Textos\txtVocal.png.meta
+    projectPath: Assets\Resources\Textos\txtVocal.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Resources\Vocales.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Vocales.meta
+    projectPath: Assets\Resources\Vocales.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Resources\Vocales\A.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Vocales\A.png
+    projectPath: Assets\Resources\Vocales\A.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Resources\Vocales\A.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Vocales\A.png.meta
+    projectPath: Assets\Resources\Vocales\A.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Resources\Vocales\E.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Vocales\E.png
+    projectPath: Assets\Resources\Vocales\E.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Resources\Vocales\E.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Vocales\E.png.meta
+    projectPath: Assets\Resources\Vocales\E.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Resources\Vocales\I.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Vocales\I.png
+    projectPath: Assets\Resources\Vocales\I.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Resources\Vocales\I.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Vocales\I.png.meta
+    projectPath: Assets\Resources\Vocales\I.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Resources\Vocales\O.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Vocales\O.png
+    projectPath: Assets\Resources\Vocales\O.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Resources\Vocales\O.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Vocales\O.png.meta
+    projectPath: Assets\Resources\Vocales\O.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Resources\Vocales\U.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Vocales\U.png
+    projectPath: Assets\Resources\Vocales\U.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Resources\Vocales\U.png.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Resources\Vocales\U.png.meta
+    projectPath: Assets\Resources\Vocales\U.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Scenes\Configuracion.unity
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Scenes\Configuracion.unity
+    projectPath: Assets\Scenes\Configuracion.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Scenes\Configuracion.unity.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Scenes\Configuracion.unity.meta
+    projectPath: Assets\Scenes\Configuracion.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Scenes\EscenaSeleccion.unity
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Scenes\EscenaSeleccion.unity
+    projectPath: Assets\Scenes\EscenaSeleccion.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Scenes\EscenaSeleccion.unity.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Scenes\EscenaSeleccion.unity.meta
+    projectPath: Assets\Scenes\EscenaSeleccion.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Scenes\EscenaSeleccionNumero.unity
     fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Scenes\EscenaSeleccionNumero.unity
     projectPath: Assets\Scenes\EscenaSeleccionNumero.unity
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scenes\EscenaSeleccionNumero.unity.meta
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ProyectoFinal\Assets\Scenes\EscenaSeleccionNumero.unity.meta
     fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Scenes\EscenaSeleccionNumero.unity.meta
     projectPath: Assets\Scenes\EscenaSeleccionNumero.unity.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scenes\EscenaSeleccionVocal.unity
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ProyectoFinal\Assets\Scenes\EscenaSeleccionVocal.unity
     fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Scenes\EscenaSeleccionVocal.unity
     projectPath: Assets\Scenes\EscenaSeleccionVocal.unity
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scenes\EscenaSeleccionVocal.unity.meta
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ProyectoFinal\Assets\Scenes\EscenaSeleccionVocal.unity.meta
     fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Scenes\EscenaSeleccionVocal.unity.meta
     projectPath: Assets\Scenes\EscenaSeleccionVocal.unity.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scenes\Menu.unity
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ProyectoFinal\Assets\Scenes\Menu.unity
     fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Scenes\Menu.unity
     projectPath: Assets\Scenes\Menu.unity
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scenes\Menu.unity.meta
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Scenes\Menu.unity.meta
-    projectPath: Assets\Scenes\Menu.unity.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scenes\MenuPrincipal.unity
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProyectoFinal\Assets\Scenes\MenuPrincipal.unity
     fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Scenes\MenuPrincipal.unity
     projectPath: Assets\Scenes\MenuPrincipal.unity
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Script.meta
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Script.meta
-    projectPath: Assets\Script.meta
+    workTreeStatus: 5
+  - path: ProyectoFinal\Assets\Scenes\MenuPrincipal.unity.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Scenes\MenuPrincipal.unity.meta
+    projectPath: Assets\Scenes\MenuPrincipal.unity.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ProyectoFinal\Assets\Script\ConexionBD.cs
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Script\ConexionBD.cs
+    projectPath: Assets\Script\ConexionBD.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Script\ScriptMenuPrincipal.meta
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Script\ScriptMenuPrincipal.meta
-    projectPath: Assets\Script\ScriptMenuPrincipal.meta
+  - path: ProyectoFinal\Assets\Script\ConexionBD.cs.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Script\ConexionBD.cs.meta
+    projectPath: Assets\Script\ConexionBD.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Script\ScriptMenuPrincipal\GameManager.cs
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Script\ScriptMenuPrincipal\GameManager.cs
-    projectPath: Assets\Script\ScriptMenuPrincipal\GameManager.cs
+  - path: ProyectoFinal\Assets\Script\ScriptConfiguracion.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Script\ScriptConfiguracion.meta
+    projectPath: Assets\Script\ScriptConfiguracion.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Script\ScriptMenuPrincipal\GameManager.cs.meta
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Script\ScriptMenuPrincipal\GameManager.cs.meta
-    projectPath: Assets\Script\ScriptMenuPrincipal\GameManager.cs.meta
+  - path: ProyectoFinal\Assets\Script\ScriptConfiguracion\ScriptControlVolumen.cs
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Script\ScriptConfiguracion\ScriptControlVolumen.cs
+    projectPath: Assets\Script\ScriptConfiguracion\ScriptControlVolumen.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Script\ScriptMenuPrincipal\ScriptBtnNumeros.cs
+  - path: ProyectoFinal\Assets\Script\ScriptConfiguracion\ScriptControlVolumen.cs.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Script\ScriptConfiguracion\ScriptControlVolumen.cs.meta
+    projectPath: Assets\Script\ScriptConfiguracion\ScriptControlVolumen.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Script\ScriptMenuNiveles.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Script\ScriptMenuNiveles.meta
+    projectPath: Assets\Script\ScriptMenuNiveles.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Script\ScriptMenuNiveles\ScriptbtnNext.cs
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Script\ScriptMenuNiveles\ScriptbtnNext.cs
+    projectPath: Assets\Script\ScriptMenuNiveles\ScriptbtnNext.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Script\ScriptMenuNiveles\ScriptbtnNext.cs.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Script\ScriptMenuNiveles\ScriptbtnNext.cs.meta
+    projectPath: Assets\Script\ScriptMenuNiveles\ScriptbtnNext.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Script\ScriptMenuNiveles\ScriptbtnPreview.cs
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Script\ScriptMenuNiveles\ScriptbtnPreview.cs
+    projectPath: Assets\Script\ScriptMenuNiveles\ScriptbtnPreview.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Script\ScriptMenuNiveles\ScriptbtnPreview.cs.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Script\ScriptMenuNiveles\ScriptbtnPreview.cs.meta
+    projectPath: Assets\Script\ScriptMenuNiveles\ScriptbtnPreview.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Script\ScriptMenuNiveles\ScriptNiveles.cs
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Script\ScriptMenuNiveles\ScriptNiveles.cs
+    projectPath: Assets\Script\ScriptMenuNiveles\ScriptNiveles.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Script\ScriptMenuNiveles\ScriptNiveles.cs.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Script\ScriptMenuNiveles\ScriptNiveles.cs.meta
+    projectPath: Assets\Script\ScriptMenuNiveles\ScriptNiveles.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Script\ScriptMenuNiveles\ScriptRecursosG.cs
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Script\ScriptMenuNiveles\ScriptRecursosG.cs
+    projectPath: Assets\Script\ScriptMenuNiveles\ScriptRecursosG.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Script\ScriptMenuNiveles\ScriptRecursosG.cs.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Script\ScriptMenuNiveles\ScriptRecursosG.cs.meta
+    projectPath: Assets\Script\ScriptMenuNiveles\ScriptRecursosG.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Script\ScriptMenuNiveles\ScriptRegresar.cs
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Script\ScriptMenuNiveles\ScriptRegresar.cs
+    projectPath: Assets\Script\ScriptMenuNiveles\ScriptRegresar.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Script\ScriptMenuNiveles\ScriptRegresar.cs.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Script\ScriptMenuNiveles\ScriptRegresar.cs.meta
+    projectPath: Assets\Script\ScriptMenuNiveles\ScriptRegresar.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Script\ScriptMenuPrincipal\ScriptBtnNumeros.cs
     fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Script\ScriptMenuPrincipal\ScriptBtnNumeros.cs
     projectPath: Assets\Script\ScriptMenuPrincipal\ScriptBtnNumeros.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Script\ScriptMenuPrincipal\ScriptBtnNumeros.cs.meta
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Script\ScriptMenuPrincipal\ScriptBtnNumeros.cs.meta
-    projectPath: Assets\Script\ScriptMenuPrincipal\ScriptBtnNumeros.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Script\ScriptMenuPrincipal\ScriptBtnVocales.cs
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProyectoFinal\Assets\Script\ScriptMenuPrincipal\ScriptBtnVocales.cs
     fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Script\ScriptMenuPrincipal\ScriptBtnVocales.cs
     projectPath: Assets\Script\ScriptMenuPrincipal\ScriptBtnVocales.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Script\ScriptMenuPrincipal\ScriptBtnVocales.cs.meta
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Script\ScriptMenuPrincipal\ScriptBtnVocales.cs.meta
-    projectPath: Assets\Script\ScriptMenuPrincipal\ScriptBtnVocales.cs.meta
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProyectoFinal\Assets\Script\ScriptMenuPrincipal\ScriptConfiguracion.cs
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Script\ScriptMenuPrincipal\ScriptConfiguracion.cs
+    projectPath: Assets\Script\ScriptMenuPrincipal\ScriptConfiguracion.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Script\ScriptMenuPrincipal\ScriptDropdownJugador.cs
+  - path: ProyectoFinal\Assets\Script\ScriptMenuPrincipal\ScriptConfiguracion.cs.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Script\ScriptMenuPrincipal\ScriptConfiguracion.cs.meta
+    projectPath: Assets\Script\ScriptMenuPrincipal\ScriptConfiguracion.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Assets\Script\ScriptMenuPrincipal\ScriptDropdownJugador.cs
     fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Script\ScriptMenuPrincipal\ScriptDropdownJugador.cs
     projectPath: Assets\Script\ScriptMenuPrincipal\ScriptDropdownJugador.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Script\ScriptMenuPrincipal\ScriptDropdownJugador.cs.meta
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Script\ScriptMenuPrincipal\ScriptDropdownJugador.cs.meta
-    projectPath: Assets\Script\ScriptMenuPrincipal\ScriptDropdownJugador.cs.meta
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProyectoFinal\Assets\Script\StaticVariablesGenerales.cs
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Script\StaticVariablesGenerales.cs
+    projectPath: Assets\Script\StaticVariablesGenerales.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Sound.meta
-    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Sound.meta
-    projectPath: Assets\Sound.meta
+  - path: ProyectoFinal\Assets\Script\StaticVariablesGenerales.cs.meta
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Assets\Script\StaticVariablesGenerales.cs.meta
+    projectPath: Assets\Script\StaticVariablesGenerales.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: ProjectSettings\EditorBuildSettings.asset
+  - path: ProyectoFinal\Library\ArtifactDB
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProyectoFinal\Library\Artifacts\01\0187c4c6f91a135b3420c412cd46edee
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\01\0187c4c6f91a135b3420c412cd46edee
+    projectPath: Library\Artifacts\01\0187c4c6f91a135b3420c412cd46edee
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\03\0344377a78e0d7b1f561f1171a2bc8ed
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\03\0344377a78e0d7b1f561f1171a2bc8ed
+    projectPath: Library\Artifacts\03\0344377a78e0d7b1f561f1171a2bc8ed
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\03\03bdf7cd858a726e26de39b7a5654e76
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\03\03bdf7cd858a726e26de39b7a5654e76
+    projectPath: Library\Artifacts\03\03bdf7cd858a726e26de39b7a5654e76
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\04\048aa099c08bfd50eebec38c3c1047cc
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\04\048aa099c08bfd50eebec38c3c1047cc
+    projectPath: Library\Artifacts\04\048aa099c08bfd50eebec38c3c1047cc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\06\06ef0f4bf421090304a41cc020b840e4
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\06\06ef0f4bf421090304a41cc020b840e4
+    projectPath: Library\Artifacts\06\06ef0f4bf421090304a41cc020b840e4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\07\079121e9f6964d59af636d3b9d5301e5
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\07\079121e9f6964d59af636d3b9d5301e5
+    projectPath: Library\Artifacts\07\079121e9f6964d59af636d3b9d5301e5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\07\07d99fed7402df5603ce783a467564a3
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\07\07d99fed7402df5603ce783a467564a3
+    projectPath: Library\Artifacts\07\07d99fed7402df5603ce783a467564a3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\08\0825431219d21da6106c9d3cae9f79c4
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\08\0825431219d21da6106c9d3cae9f79c4
+    projectPath: Library\Artifacts\08\0825431219d21da6106c9d3cae9f79c4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\0a\0aa00dd6ec279189597df51aa02af940
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\0a\0aa00dd6ec279189597df51aa02af940
+    projectPath: Library\Artifacts\0a\0aa00dd6ec279189597df51aa02af940
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\0b\0b1188e034b30c2e2b6b39e52d7aec50
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\0b\0b1188e034b30c2e2b6b39e52d7aec50
+    projectPath: Library\Artifacts\0b\0b1188e034b30c2e2b6b39e52d7aec50
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\0c\0c4ec0f84a539f7bbaf31c67038f0f4a
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\0c\0c4ec0f84a539f7bbaf31c67038f0f4a
+    projectPath: Library\Artifacts\0c\0c4ec0f84a539f7bbaf31c67038f0f4a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\0c\0c9e2a59dffc94cce6bfe3646a446796
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\0c\0c9e2a59dffc94cce6bfe3646a446796
+    projectPath: Library\Artifacts\0c\0c9e2a59dffc94cce6bfe3646a446796
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\0d\0d74424e1de29c39e4c67427d579ac79
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\0d\0d74424e1de29c39e4c67427d579ac79
+    projectPath: Library\Artifacts\0d\0d74424e1de29c39e4c67427d579ac79
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\0d\0ddc74a81bab24d2c5930ceee5dd527d
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\0d\0ddc74a81bab24d2c5930ceee5dd527d
+    projectPath: Library\Artifacts\0d\0ddc74a81bab24d2c5930ceee5dd527d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\0d\0deb9c2f67490e09df21c42aef2bbef8
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\0d\0deb9c2f67490e09df21c42aef2bbef8
+    projectPath: Library\Artifacts\0d\0deb9c2f67490e09df21c42aef2bbef8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\0f\0f34ca24e5868e7c148f500ea8445d51
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\0f\0f34ca24e5868e7c148f500ea8445d51
+    projectPath: Library\Artifacts\0f\0f34ca24e5868e7c148f500ea8445d51
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\11\11086e201d19d9810c3c4cc0b8c94832
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\11\11086e201d19d9810c3c4cc0b8c94832
+    projectPath: Library\Artifacts\11\11086e201d19d9810c3c4cc0b8c94832
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\12\128023e2b504d5f07daa84f039180c29
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\12\128023e2b504d5f07daa84f039180c29
+    projectPath: Library\Artifacts\12\128023e2b504d5f07daa84f039180c29
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\13\1333b0415889652a290ff3e8c981b55a
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\13\1333b0415889652a290ff3e8c981b55a
+    projectPath: Library\Artifacts\13\1333b0415889652a290ff3e8c981b55a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ProyectoFinal\Library\Artifacts\13\136a269280346fab8a0c13b95053cff6
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\13\136a269280346fab8a0c13b95053cff6
+    projectPath: Library\Artifacts\13\136a269280346fab8a0c13b95053cff6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\14\149f681d047dee25c16b8245b1163434
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\14\149f681d047dee25c16b8245b1163434
+    projectPath: Library\Artifacts\14\149f681d047dee25c16b8245b1163434
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\14\14b803052cfbf808ab60bcdea96f1da7
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\14\14b803052cfbf808ab60bcdea96f1da7
+    projectPath: Library\Artifacts\14\14b803052cfbf808ab60bcdea96f1da7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\14\14c4a102f481a3532c31b4a60cbce5ef
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\14\14c4a102f481a3532c31b4a60cbce5ef
+    projectPath: Library\Artifacts\14\14c4a102f481a3532c31b4a60cbce5ef
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\18\180c2930ba2db5dd7684e88cb996a985
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\18\180c2930ba2db5dd7684e88cb996a985
+    projectPath: Library\Artifacts\18\180c2930ba2db5dd7684e88cb996a985
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\18\18fa1b635adbc8ebeb109cb0d71d5810
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\18\18fa1b635adbc8ebeb109cb0d71d5810
+    projectPath: Library\Artifacts\18\18fa1b635adbc8ebeb109cb0d71d5810
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\19\1969268e9516895cf6023ce004b897d1
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\19\1969268e9516895cf6023ce004b897d1
+    projectPath: Library\Artifacts\19\1969268e9516895cf6023ce004b897d1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\1a\1a4df45b09f178249039057bbefc2f42
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\1a\1a4df45b09f178249039057bbefc2f42
+    projectPath: Library\Artifacts\1a\1a4df45b09f178249039057bbefc2f42
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\1b\1be7eb3020731ab6f51d2fc683ad1fbf
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\1b\1be7eb3020731ab6f51d2fc683ad1fbf
+    projectPath: Library\Artifacts\1b\1be7eb3020731ab6f51d2fc683ad1fbf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\20\20218204dd0d02ec6e8c4fe67f5fd88c
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\20\20218204dd0d02ec6e8c4fe67f5fd88c
+    projectPath: Library\Artifacts\20\20218204dd0d02ec6e8c4fe67f5fd88c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\20\207c07d591690556337392e90ee7db22
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\20\207c07d591690556337392e90ee7db22
+    projectPath: Library\Artifacts\20\207c07d591690556337392e90ee7db22
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\21\2137fb8bae32623341fe7ab929eab601
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\21\2137fb8bae32623341fe7ab929eab601
+    projectPath: Library\Artifacts\21\2137fb8bae32623341fe7ab929eab601
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\23\237eeaed5ca08b1fbde26a3575cbf84f
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\23\237eeaed5ca08b1fbde26a3575cbf84f
+    projectPath: Library\Artifacts\23\237eeaed5ca08b1fbde26a3575cbf84f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\24\2463017d39f0013ffae1629799480948
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\24\2463017d39f0013ffae1629799480948
+    projectPath: Library\Artifacts\24\2463017d39f0013ffae1629799480948
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\24\24d7bcf7ac0427ab541b2dc8c372f111
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\24\24d7bcf7ac0427ab541b2dc8c372f111
+    projectPath: Library\Artifacts\24\24d7bcf7ac0427ab541b2dc8c372f111
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\27\27e953085d299894a4b47d44264bb012
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\27\27e953085d299894a4b47d44264bb012
+    projectPath: Library\Artifacts\27\27e953085d299894a4b47d44264bb012
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\28\289c8101b05fb8d2669c6127bdeb2639
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\28\289c8101b05fb8d2669c6127bdeb2639
+    projectPath: Library\Artifacts\28\289c8101b05fb8d2669c6127bdeb2639
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\29\29d46270d37d69242e4a7d84cae8a058
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\29\29d46270d37d69242e4a7d84cae8a058
+    projectPath: Library\Artifacts\29\29d46270d37d69242e4a7d84cae8a058
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ProyectoFinal\Library\Artifacts\2a\2a9c788a73e92c750e2e21c802ac74bd
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\2a\2a9c788a73e92c750e2e21c802ac74bd
+    projectPath: Library\Artifacts\2a\2a9c788a73e92c750e2e21c802ac74bd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\2a\2aee5b5feb6f6314289ab4888b092882
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\2a\2aee5b5feb6f6314289ab4888b092882
+    projectPath: Library\Artifacts\2a\2aee5b5feb6f6314289ab4888b092882
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\34\346a0470cc2d3eb7cec77e666ddd82b2
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\34\346a0470cc2d3eb7cec77e666ddd82b2
+    projectPath: Library\Artifacts\34\346a0470cc2d3eb7cec77e666ddd82b2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\37\373159e4c491c3ffe075293d65b92e2a
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\37\373159e4c491c3ffe075293d65b92e2a
+    projectPath: Library\Artifacts\37\373159e4c491c3ffe075293d65b92e2a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\37\374728b70fc2daa7e555b8e29bf2d8da
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\37\374728b70fc2daa7e555b8e29bf2d8da
+    projectPath: Library\Artifacts\37\374728b70fc2daa7e555b8e29bf2d8da
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\38\38032c30e5c408a4d85e4ebf3b8e16a9
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\38\38032c30e5c408a4d85e4ebf3b8e16a9
+    projectPath: Library\Artifacts\38\38032c30e5c408a4d85e4ebf3b8e16a9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\38\3823b9f1ea52582d569e4cadb8fc016e
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\38\3823b9f1ea52582d569e4cadb8fc016e
+    projectPath: Library\Artifacts\38\3823b9f1ea52582d569e4cadb8fc016e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\3c\3c476b96af0430910201acbebaa2194e
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\3c\3c476b96af0430910201acbebaa2194e
+    projectPath: Library\Artifacts\3c\3c476b96af0430910201acbebaa2194e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\3c\3c87539d8470f6c90dfdf7df8b902de0
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\3c\3c87539d8470f6c90dfdf7df8b902de0
+    projectPath: Library\Artifacts\3c\3c87539d8470f6c90dfdf7df8b902de0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\3d\3d3c709dc304d390870d981882bfb270
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\3d\3d3c709dc304d390870d981882bfb270
+    projectPath: Library\Artifacts\3d\3d3c709dc304d390870d981882bfb270
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\3d\3d95cf6649cc6e798671325ce1e574e3
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\3d\3d95cf6649cc6e798671325ce1e574e3
+    projectPath: Library\Artifacts\3d\3d95cf6649cc6e798671325ce1e574e3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\3d\3da9452ad2831e705dd1c4d8187f97ae
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\3d\3da9452ad2831e705dd1c4d8187f97ae
+    projectPath: Library\Artifacts\3d\3da9452ad2831e705dd1c4d8187f97ae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\3d\3dcf0943be404c7d5fdbf9a30d928571
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\3d\3dcf0943be404c7d5fdbf9a30d928571
+    projectPath: Library\Artifacts\3d\3dcf0943be404c7d5fdbf9a30d928571
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\3d\3ddc840a590956e0615597028b10f2af
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\3d\3ddc840a590956e0615597028b10f2af
+    projectPath: Library\Artifacts\3d\3ddc840a590956e0615597028b10f2af
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\42\4243e4cde390d78ecc2c47dceb746412
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\42\4243e4cde390d78ecc2c47dceb746412
+    projectPath: Library\Artifacts\42\4243e4cde390d78ecc2c47dceb746412
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\44\44b032abda1459084d723f24d3eb72de
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\44\44b032abda1459084d723f24d3eb72de
+    projectPath: Library\Artifacts\44\44b032abda1459084d723f24d3eb72de
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\44\44e48b65961b39eb40ebf9d2ab8e5964
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\44\44e48b65961b39eb40ebf9d2ab8e5964
+    projectPath: Library\Artifacts\44\44e48b65961b39eb40ebf9d2ab8e5964
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\46\4606e85eef21e103fbb9007a0ce52b52
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\46\4606e85eef21e103fbb9007a0ce52b52
+    projectPath: Library\Artifacts\46\4606e85eef21e103fbb9007a0ce52b52
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\46\46bb700d8861a65c00ea0127faeec128
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\46\46bb700d8861a65c00ea0127faeec128
+    projectPath: Library\Artifacts\46\46bb700d8861a65c00ea0127faeec128
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\4a\4a4f110e64e3b6bb7f6103a5923cada4
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\4a\4a4f110e64e3b6bb7f6103a5923cada4
+    projectPath: Library\Artifacts\4a\4a4f110e64e3b6bb7f6103a5923cada4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\4c\4cf170f226531bd12218fa9a78baccaf
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\4c\4cf170f226531bd12218fa9a78baccaf
+    projectPath: Library\Artifacts\4c\4cf170f226531bd12218fa9a78baccaf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\4e\4e0dc1783a35878fd67c3af341d89ae2
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\4e\4e0dc1783a35878fd67c3af341d89ae2
+    projectPath: Library\Artifacts\4e\4e0dc1783a35878fd67c3af341d89ae2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\4e\4edeb93516b799c4d1368ab8c54d8dcf
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\4e\4edeb93516b799c4d1368ab8c54d8dcf
+    projectPath: Library\Artifacts\4e\4edeb93516b799c4d1368ab8c54d8dcf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\4f\4f26149caf7570707f0ed8869b05bb41
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\4f\4f26149caf7570707f0ed8869b05bb41
+    projectPath: Library\Artifacts\4f\4f26149caf7570707f0ed8869b05bb41
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\4f\4f54658abb04e9a68e82b545ddc0f92b
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\4f\4f54658abb04e9a68e82b545ddc0f92b
+    projectPath: Library\Artifacts\4f\4f54658abb04e9a68e82b545ddc0f92b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\50\5075d50e83b9e19498ede2e9ee2ff75d
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\50\5075d50e83b9e19498ede2e9ee2ff75d
+    projectPath: Library\Artifacts\50\5075d50e83b9e19498ede2e9ee2ff75d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\50\509f31176d015fef43337e568dc8ae62
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\50\509f31176d015fef43337e568dc8ae62
+    projectPath: Library\Artifacts\50\509f31176d015fef43337e568dc8ae62
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ProyectoFinal\Library\Artifacts\51\519cd541fb5212ac8921230c45aafeab
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\51\519cd541fb5212ac8921230c45aafeab
+    projectPath: Library\Artifacts\51\519cd541fb5212ac8921230c45aafeab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\54\540f8c391126c739b13bbdf8801cb7a6
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\54\540f8c391126c739b13bbdf8801cb7a6
+    projectPath: Library\Artifacts\54\540f8c391126c739b13bbdf8801cb7a6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\55\559f0ef9c9b1db90c1cab392d813899a
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\55\559f0ef9c9b1db90c1cab392d813899a
+    projectPath: Library\Artifacts\55\559f0ef9c9b1db90c1cab392d813899a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\56\5608e075e0384d9e652f26e2f47c4352
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\56\5608e075e0384d9e652f26e2f47c4352
+    projectPath: Library\Artifacts\56\5608e075e0384d9e652f26e2f47c4352
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\56\56dafa4c50d48f0dce6b9faef8e1eab1
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\56\56dafa4c50d48f0dce6b9faef8e1eab1
+    projectPath: Library\Artifacts\56\56dafa4c50d48f0dce6b9faef8e1eab1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\57\571f831582844b19cffcc6ddb5824e23
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\57\571f831582844b19cffcc6ddb5824e23
+    projectPath: Library\Artifacts\57\571f831582844b19cffcc6ddb5824e23
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\58\586e4f1d2efa129d5feb29eaafba2ef8
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\58\586e4f1d2efa129d5feb29eaafba2ef8
+    projectPath: Library\Artifacts\58\586e4f1d2efa129d5feb29eaafba2ef8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ProyectoFinal\Library\Artifacts\58\58cc942a2a1acdb95f9032e485df5902
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\58\58cc942a2a1acdb95f9032e485df5902
+    projectPath: Library\Artifacts\58\58cc942a2a1acdb95f9032e485df5902
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\59\592a67e2d4a64070ef0ef17026c42874
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\59\592a67e2d4a64070ef0ef17026c42874
+    projectPath: Library\Artifacts\59\592a67e2d4a64070ef0ef17026c42874
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\59\595d19b4b5545fa2dee899dfe950fad5
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\59\595d19b4b5545fa2dee899dfe950fad5
+    projectPath: Library\Artifacts\59\595d19b4b5545fa2dee899dfe950fad5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\5a\5a45e4ed2d46671babf0fd9c2e22a429
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\5a\5a45e4ed2d46671babf0fd9c2e22a429
+    projectPath: Library\Artifacts\5a\5a45e4ed2d46671babf0fd9c2e22a429
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\5a\5add36e72120827a44363ae2637fdcdc
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\5a\5add36e72120827a44363ae2637fdcdc
+    projectPath: Library\Artifacts\5a\5add36e72120827a44363ae2637fdcdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\5d\5d0c6974b448c831f7420ff49b570b84
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\5d\5d0c6974b448c831f7420ff49b570b84
+    projectPath: Library\Artifacts\5d\5d0c6974b448c831f7420ff49b570b84
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\5d\5da3d96f6fbf84d010f32be09ed4c3b2
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\5d\5da3d96f6fbf84d010f32be09ed4c3b2
+    projectPath: Library\Artifacts\5d\5da3d96f6fbf84d010f32be09ed4c3b2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\5e\5e2aca305c5d196ca89401a4e01cdff0
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\5e\5e2aca305c5d196ca89401a4e01cdff0
+    projectPath: Library\Artifacts\5e\5e2aca305c5d196ca89401a4e01cdff0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\60\60cfa11366547ded6e74b56a636443ec
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\60\60cfa11366547ded6e74b56a636443ec
+    projectPath: Library\Artifacts\60\60cfa11366547ded6e74b56a636443ec
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\61\616b1f9e33dfedf714f6387e32ae1e9a
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\61\616b1f9e33dfedf714f6387e32ae1e9a
+    projectPath: Library\Artifacts\61\616b1f9e33dfedf714f6387e32ae1e9a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\61\61a5ccb6eb61527aae8e0b6f1c75babb
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\61\61a5ccb6eb61527aae8e0b6f1c75babb
+    projectPath: Library\Artifacts\61\61a5ccb6eb61527aae8e0b6f1c75babb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\61\61abdc9c737623fac2e57b176ad452cd
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\61\61abdc9c737623fac2e57b176ad452cd
+    projectPath: Library\Artifacts\61\61abdc9c737623fac2e57b176ad452cd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\62\62935f7d7ee622969cfb13e428cd6fb5
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\62\62935f7d7ee622969cfb13e428cd6fb5
+    projectPath: Library\Artifacts\62\62935f7d7ee622969cfb13e428cd6fb5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\62\62b7dd3f1cedd9071b78e1006d4cbed1
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\62\62b7dd3f1cedd9071b78e1006d4cbed1
+    projectPath: Library\Artifacts\62\62b7dd3f1cedd9071b78e1006d4cbed1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\64\64db5050a68580eb8fcd6b42d43bc80c
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\64\64db5050a68580eb8fcd6b42d43bc80c
+    projectPath: Library\Artifacts\64\64db5050a68580eb8fcd6b42d43bc80c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\69\6950e5382e3c4d231498c2815271f7cf
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\69\6950e5382e3c4d231498c2815271f7cf
+    projectPath: Library\Artifacts\69\6950e5382e3c4d231498c2815271f7cf
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ProyectoFinal\Library\Artifacts\6c\6c7b4103af037e63f5390bdbcab1b8fe
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\6c\6c7b4103af037e63f5390bdbcab1b8fe
+    projectPath: Library\Artifacts\6c\6c7b4103af037e63f5390bdbcab1b8fe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\6d\6d51756c767e72c6c8ad6808fe4a6eb3
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\6d\6d51756c767e72c6c8ad6808fe4a6eb3
+    projectPath: Library\Artifacts\6d\6d51756c767e72c6c8ad6808fe4a6eb3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\6e\6e4d905cb2275cdd416c029f9814c72e
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\6e\6e4d905cb2275cdd416c029f9814c72e
+    projectPath: Library\Artifacts\6e\6e4d905cb2275cdd416c029f9814c72e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\6f\6f27b1b4e97e11f47acb3bc5ceeeb30b
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\6f\6f27b1b4e97e11f47acb3bc5ceeeb30b
+    projectPath: Library\Artifacts\6f\6f27b1b4e97e11f47acb3bc5ceeeb30b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\6f\6fc5cbcd25410a5af24c5dd9604ab4d5
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\6f\6fc5cbcd25410a5af24c5dd9604ab4d5
+    projectPath: Library\Artifacts\6f\6fc5cbcd25410a5af24c5dd9604ab4d5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\71\71688599f2256653f004a7b1f5aef9c0
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\71\71688599f2256653f004a7b1f5aef9c0
+    projectPath: Library\Artifacts\71\71688599f2256653f004a7b1f5aef9c0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ProyectoFinal\Library\Artifacts\72\72278a3100b9e5ddb7d81ada1864625f
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\72\72278a3100b9e5ddb7d81ada1864625f
+    projectPath: Library\Artifacts\72\72278a3100b9e5ddb7d81ada1864625f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\72\726577661aec2691830cf3737d1f3c28
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\72\726577661aec2691830cf3737d1f3c28
+    projectPath: Library\Artifacts\72\726577661aec2691830cf3737d1f3c28
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\7a\7a5f88aca3f382f773d5fd9bee219f08
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\7a\7a5f88aca3f382f773d5fd9bee219f08
+    projectPath: Library\Artifacts\7a\7a5f88aca3f382f773d5fd9bee219f08
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\7c\7c11ac2495c7b57d9ac53e1b801f2355
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\7c\7c11ac2495c7b57d9ac53e1b801f2355
+    projectPath: Library\Artifacts\7c\7c11ac2495c7b57d9ac53e1b801f2355
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\7d\7dd43f294a529cbcc70f7aeaa9ab64fb
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\7d\7dd43f294a529cbcc70f7aeaa9ab64fb
+    projectPath: Library\Artifacts\7d\7dd43f294a529cbcc70f7aeaa9ab64fb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\7f\7f041da9668affda0e75091e8f438bba
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\7f\7f041da9668affda0e75091e8f438bba
+    projectPath: Library\Artifacts\7f\7f041da9668affda0e75091e8f438bba
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\7f\7f0e949f570bf014d3ee35112be92964
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\7f\7f0e949f570bf014d3ee35112be92964
+    projectPath: Library\Artifacts\7f\7f0e949f570bf014d3ee35112be92964
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\83\832d208e4d76e80b46d6569e296269d9
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\83\832d208e4d76e80b46d6569e296269d9
+    projectPath: Library\Artifacts\83\832d208e4d76e80b46d6569e296269d9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\83\83b53337feb50a2586ed5d2578e27902
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\83\83b53337feb50a2586ed5d2578e27902
+    projectPath: Library\Artifacts\83\83b53337feb50a2586ed5d2578e27902
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\83\83b80d3910e25914faf8f5247924f96b
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\83\83b80d3910e25914faf8f5247924f96b
+    projectPath: Library\Artifacts\83\83b80d3910e25914faf8f5247924f96b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\86\86fc29abd2d2ef4879de97f2730a9fa0
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\86\86fc29abd2d2ef4879de97f2730a9fa0
+    projectPath: Library\Artifacts\86\86fc29abd2d2ef4879de97f2730a9fa0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\8a\8a782db39912c21b1277b71d946ec68a
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\8a\8a782db39912c21b1277b71d946ec68a
+    projectPath: Library\Artifacts\8a\8a782db39912c21b1277b71d946ec68a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\8b\8b54213178b065775e7287aa149b57f6
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\8b\8b54213178b065775e7287aa149b57f6
+    projectPath: Library\Artifacts\8b\8b54213178b065775e7287aa149b57f6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\8b\8b6c4f95aa20828ff44a9f24bd0c7d7d
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\8b\8b6c4f95aa20828ff44a9f24bd0c7d7d
+    projectPath: Library\Artifacts\8b\8b6c4f95aa20828ff44a9f24bd0c7d7d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\8d\8d0b24eefb23887da84c46ea2d5f96dc
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\8d\8d0b24eefb23887da84c46ea2d5f96dc
+    projectPath: Library\Artifacts\8d\8d0b24eefb23887da84c46ea2d5f96dc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\8d\8d517f73f71cf1cf95c3a2c27ee2d1db
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\8d\8d517f73f71cf1cf95c3a2c27ee2d1db
+    projectPath: Library\Artifacts\8d\8d517f73f71cf1cf95c3a2c27ee2d1db
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\93\93c53e19652c99db8e6349916560ebbe
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\93\93c53e19652c99db8e6349916560ebbe
+    projectPath: Library\Artifacts\93\93c53e19652c99db8e6349916560ebbe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\95\956af5601ff5e8d17208bacc4a8f53a8
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\95\956af5601ff5e8d17208bacc4a8f53a8
+    projectPath: Library\Artifacts\95\956af5601ff5e8d17208bacc4a8f53a8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\96\96a654eee7338d0f1ec4afbc0a8f2dc0
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\96\96a654eee7338d0f1ec4afbc0a8f2dc0
+    projectPath: Library\Artifacts\96\96a654eee7338d0f1ec4afbc0a8f2dc0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\97\974dcad12985ed18ec1beaf034f405d5
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\97\974dcad12985ed18ec1beaf034f405d5
+    projectPath: Library\Artifacts\97\974dcad12985ed18ec1beaf034f405d5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\9a\9a4b137ae4282ffb06aa87c7b5fe537a
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\9a\9a4b137ae4282ffb06aa87c7b5fe537a
+    projectPath: Library\Artifacts\9a\9a4b137ae4282ffb06aa87c7b5fe537a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ProyectoFinal\Library\Artifacts\9d\9dc9de8d658ad01d2d6239c8135c593b
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\9d\9dc9de8d658ad01d2d6239c8135c593b
+    projectPath: Library\Artifacts\9d\9dc9de8d658ad01d2d6239c8135c593b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\a6\a64d5e8911da257d52b1a1c54c70d6c6
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\a6\a64d5e8911da257d52b1a1c54c70d6c6
+    projectPath: Library\Artifacts\a6\a64d5e8911da257d52b1a1c54c70d6c6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\a7\a71859983e94e645dbe750f9df416d7f
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\a7\a71859983e94e645dbe750f9df416d7f
+    projectPath: Library\Artifacts\a7\a71859983e94e645dbe750f9df416d7f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\a7\a73adf3096ca6b452559cb39e90989ac
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\a7\a73adf3096ca6b452559cb39e90989ac
+    projectPath: Library\Artifacts\a7\a73adf3096ca6b452559cb39e90989ac
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\a8\a80a7056b26e63c923d7bb9748df3c6b
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\a8\a80a7056b26e63c923d7bb9748df3c6b
+    projectPath: Library\Artifacts\a8\a80a7056b26e63c923d7bb9748df3c6b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\aa\aae52bb22c87d9323346f82ea2cb7c50
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\aa\aae52bb22c87d9323346f82ea2cb7c50
+    projectPath: Library\Artifacts\aa\aae52bb22c87d9323346f82ea2cb7c50
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\ac\ac82dcc96f521d1a8e5f08e65c1f99f4
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\ac\ac82dcc96f521d1a8e5f08e65c1f99f4
+    projectPath: Library\Artifacts\ac\ac82dcc96f521d1a8e5f08e65c1f99f4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\ad\adbb1c98368a4d484e78d186386ed4f9
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\ad\adbb1c98368a4d484e78d186386ed4f9
+    projectPath: Library\Artifacts\ad\adbb1c98368a4d484e78d186386ed4f9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\ae\aee2277837ea690d94b09bfe6a0d0c11
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\ae\aee2277837ea690d94b09bfe6a0d0c11
+    projectPath: Library\Artifacts\ae\aee2277837ea690d94b09bfe6a0d0c11
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\af\afe336a62c7ea5a6f454a70f1a804a63
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\af\afe336a62c7ea5a6f454a70f1a804a63
+    projectPath: Library\Artifacts\af\afe336a62c7ea5a6f454a70f1a804a63
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\b0\b0287764e6300ddc73278ffe3d72d922
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\b0\b0287764e6300ddc73278ffe3d72d922
+    projectPath: Library\Artifacts\b0\b0287764e6300ddc73278ffe3d72d922
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\b2\b294ccb882d1f91303872183f77a182c
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\b2\b294ccb882d1f91303872183f77a182c
+    projectPath: Library\Artifacts\b2\b294ccb882d1f91303872183f77a182c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\b3\b31b0432798e3ef88ba8e9c37bf6e169
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\b3\b31b0432798e3ef88ba8e9c37bf6e169
+    projectPath: Library\Artifacts\b3\b31b0432798e3ef88ba8e9c37bf6e169
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\b3\b3876763af393d379f0fc5c6457b716b
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\b3\b3876763af393d379f0fc5c6457b716b
+    projectPath: Library\Artifacts\b3\b3876763af393d379f0fc5c6457b716b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\b3\b3a71964a56ef8f70ac3c7463a7976b2
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\b3\b3a71964a56ef8f70ac3c7463a7976b2
+    projectPath: Library\Artifacts\b3\b3a71964a56ef8f70ac3c7463a7976b2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\b5\b5d40c32ae5680ea0e1cda700770c36b
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\b5\b5d40c32ae5680ea0e1cda700770c36b
+    projectPath: Library\Artifacts\b5\b5d40c32ae5680ea0e1cda700770c36b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\b6\b6391f804b892be60a0a02eea205a52e
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\b6\b6391f804b892be60a0a02eea205a52e
+    projectPath: Library\Artifacts\b6\b6391f804b892be60a0a02eea205a52e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\b7\b70437b12ec0d99035e8313ba771718c
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\b7\b70437b12ec0d99035e8313ba771718c
+    projectPath: Library\Artifacts\b7\b70437b12ec0d99035e8313ba771718c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\b7\b73c700a0c64ec456108f4ec9e8e2b8a
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\b7\b73c700a0c64ec456108f4ec9e8e2b8a
+    projectPath: Library\Artifacts\b7\b73c700a0c64ec456108f4ec9e8e2b8a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\b7\b784adde6923aa6252bb813788656389
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\b7\b784adde6923aa6252bb813788656389
+    projectPath: Library\Artifacts\b7\b784adde6923aa6252bb813788656389
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\b7\b7e02f75948c18557da74995ed1c3a26
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\b7\b7e02f75948c18557da74995ed1c3a26
+    projectPath: Library\Artifacts\b7\b7e02f75948c18557da74995ed1c3a26
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\b8\b8d24b59f0a5cb1179f6da9fdfb4b7a4
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\b8\b8d24b59f0a5cb1179f6da9fdfb4b7a4
+    projectPath: Library\Artifacts\b8\b8d24b59f0a5cb1179f6da9fdfb4b7a4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\bb\bbde357e5222acdac52fd00e437488b1
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\bb\bbde357e5222acdac52fd00e437488b1
+    projectPath: Library\Artifacts\bb\bbde357e5222acdac52fd00e437488b1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\c0\c00f59eb0abdc0df2054b31869461a54
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\c0\c00f59eb0abdc0df2054b31869461a54
+    projectPath: Library\Artifacts\c0\c00f59eb0abdc0df2054b31869461a54
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\c0\c0cc1d057eb4f15e6feb2ef365acb6bb
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\c0\c0cc1d057eb4f15e6feb2ef365acb6bb
+    projectPath: Library\Artifacts\c0\c0cc1d057eb4f15e6feb2ef365acb6bb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\c3\c3b8175ca8615780b5963206c3ee31fc
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\c3\c3b8175ca8615780b5963206c3ee31fc
+    projectPath: Library\Artifacts\c3\c3b8175ca8615780b5963206c3ee31fc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\c5\c52c0754738f1836141e3136aa8206a5
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\c5\c52c0754738f1836141e3136aa8206a5
+    projectPath: Library\Artifacts\c5\c52c0754738f1836141e3136aa8206a5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\c5\c572c56607990e4aba265923a9409727
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\c5\c572c56607990e4aba265923a9409727
+    projectPath: Library\Artifacts\c5\c572c56607990e4aba265923a9409727
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\c5\c59aa05ca3c8d589de1679e64595ca49
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\c5\c59aa05ca3c8d589de1679e64595ca49
+    projectPath: Library\Artifacts\c5\c59aa05ca3c8d589de1679e64595ca49
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\c7\c75d64f6271b948136a5f27777ac5876
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\c7\c75d64f6271b948136a5f27777ac5876
+    projectPath: Library\Artifacts\c7\c75d64f6271b948136a5f27777ac5876
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\cc\cc85494312e57b260a0422b1ab551473
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\cc\cc85494312e57b260a0422b1ab551473
+    projectPath: Library\Artifacts\cc\cc85494312e57b260a0422b1ab551473
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\cd\cd10fd68955585e3e8931b2b6c101202
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\cd\cd10fd68955585e3e8931b2b6c101202
+    projectPath: Library\Artifacts\cd\cd10fd68955585e3e8931b2b6c101202
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ProyectoFinal\Library\Artifacts\cd\cd273ec8d21a4db2dbd3bee55dabb651
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\cd\cd273ec8d21a4db2dbd3bee55dabb651
+    projectPath: Library\Artifacts\cd\cd273ec8d21a4db2dbd3bee55dabb651
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ProyectoFinal\Library\Artifacts\cd\cd87e5e8b9456639dcec2a6d10bc91e8
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\cd\cd87e5e8b9456639dcec2a6d10bc91e8
+    projectPath: Library\Artifacts\cd\cd87e5e8b9456639dcec2a6d10bc91e8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\cd\cdcc512a195eacc5267a0afd554c8495
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\cd\cdcc512a195eacc5267a0afd554c8495
+    projectPath: Library\Artifacts\cd\cdcc512a195eacc5267a0afd554c8495
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\ce\ce276b098d85a5f8d40228155a1f6282
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\ce\ce276b098d85a5f8d40228155a1f6282
+    projectPath: Library\Artifacts\ce\ce276b098d85a5f8d40228155a1f6282
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\ce\ced13ee3de6b898ab501e4490b857da2
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\ce\ced13ee3de6b898ab501e4490b857da2
+    projectPath: Library\Artifacts\ce\ced13ee3de6b898ab501e4490b857da2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\d1\d1c03444d591ec13a222c4849383b7a5
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\d1\d1c03444d591ec13a222c4849383b7a5
+    projectPath: Library\Artifacts\d1\d1c03444d591ec13a222c4849383b7a5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ProyectoFinal\Library\Artifacts\d4\d41b97b6e394086c734c806a1c0811e7
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\d4\d41b97b6e394086c734c806a1c0811e7
+    projectPath: Library\Artifacts\d4\d41b97b6e394086c734c806a1c0811e7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\d4\d43ce7a63575d717ed2da7f21539686e
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\d4\d43ce7a63575d717ed2da7f21539686e
+    projectPath: Library\Artifacts\d4\d43ce7a63575d717ed2da7f21539686e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\d4\d473278b3f7e9abe0cea64e602f260c9
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\d4\d473278b3f7e9abe0cea64e602f260c9
+    projectPath: Library\Artifacts\d4\d473278b3f7e9abe0cea64e602f260c9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\d4\d4b7ad9e126a76bff3a67e430368c238
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\d4\d4b7ad9e126a76bff3a67e430368c238
+    projectPath: Library\Artifacts\d4\d4b7ad9e126a76bff3a67e430368c238
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\d6\d62b9df27e42ec20e9393ec761db793b
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\d6\d62b9df27e42ec20e9393ec761db793b
+    projectPath: Library\Artifacts\d6\d62b9df27e42ec20e9393ec761db793b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\d6\d6f56bbcc38ca590626ca0cee4ed9f02
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\d6\d6f56bbcc38ca590626ca0cee4ed9f02
+    projectPath: Library\Artifacts\d6\d6f56bbcc38ca590626ca0cee4ed9f02
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\d7\d772092e24f9227846aa2143145faded
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\d7\d772092e24f9227846aa2143145faded
+    projectPath: Library\Artifacts\d7\d772092e24f9227846aa2143145faded
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\d8\d895087118309e9b1bc398aeb916ed9a
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\d8\d895087118309e9b1bc398aeb916ed9a
+    projectPath: Library\Artifacts\d8\d895087118309e9b1bc398aeb916ed9a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\d9\d98f7a31c12914ccef7852d6725087e8
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\d9\d98f7a31c12914ccef7852d6725087e8
+    projectPath: Library\Artifacts\d9\d98f7a31c12914ccef7852d6725087e8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\d9\d9d949385135b8d45e5f8573256a5d3b
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\d9\d9d949385135b8d45e5f8573256a5d3b
+    projectPath: Library\Artifacts\d9\d9d949385135b8d45e5f8573256a5d3b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\da\da6d56458d66e90119b75db75b632b78
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\da\da6d56458d66e90119b75db75b632b78
+    projectPath: Library\Artifacts\da\da6d56458d66e90119b75db75b632b78
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\db\dbb38a717010808ed336161a131b211b
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\db\dbb38a717010808ed336161a131b211b
+    projectPath: Library\Artifacts\db\dbb38a717010808ed336161a131b211b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\db\dbbb4586e9c2eabeb08879e31165ae42
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\db\dbbb4586e9c2eabeb08879e31165ae42
+    projectPath: Library\Artifacts\db\dbbb4586e9c2eabeb08879e31165ae42
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\dd\dd1e5ea03e1906e85cd31e52afd3bfaa
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\dd\dd1e5ea03e1906e85cd31e52afd3bfaa
+    projectPath: Library\Artifacts\dd\dd1e5ea03e1906e85cd31e52afd3bfaa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\dd\dd7416be2600abe10289750364a00d03
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\dd\dd7416be2600abe10289750364a00d03
+    projectPath: Library\Artifacts\dd\dd7416be2600abe10289750364a00d03
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\dd\ddb8b8e21157f8320b310c38cefc343a
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\dd\ddb8b8e21157f8320b310c38cefc343a
+    projectPath: Library\Artifacts\dd\ddb8b8e21157f8320b310c38cefc343a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\df\df0344a7e7be8ea41279bdcf0a0f31e1
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\df\df0344a7e7be8ea41279bdcf0a0f31e1
+    projectPath: Library\Artifacts\df\df0344a7e7be8ea41279bdcf0a0f31e1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\df\dfbe1d6a351cf03c948315119b7e5a66
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\df\dfbe1d6a351cf03c948315119b7e5a66
+    projectPath: Library\Artifacts\df\dfbe1d6a351cf03c948315119b7e5a66
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\e0\e093120904c122eb514e62e62ea690a3
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\e0\e093120904c122eb514e62e62ea690a3
+    projectPath: Library\Artifacts\e0\e093120904c122eb514e62e62ea690a3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\e1\e1c6aa2b8a6e2ffef200b08a64016bc7
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\e1\e1c6aa2b8a6e2ffef200b08a64016bc7
+    projectPath: Library\Artifacts\e1\e1c6aa2b8a6e2ffef200b08a64016bc7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\e3\e3be812a4fbb0c1972788e432cbd0855
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\e3\e3be812a4fbb0c1972788e432cbd0855
+    projectPath: Library\Artifacts\e3\e3be812a4fbb0c1972788e432cbd0855
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\e6\e621e85bb442715cfff52029a9dfa1ed
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\e6\e621e85bb442715cfff52029a9dfa1ed
+    projectPath: Library\Artifacts\e6\e621e85bb442715cfff52029a9dfa1ed
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\e7\e7796635366aec3f861892f5fae825bc
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\e7\e7796635366aec3f861892f5fae825bc
+    projectPath: Library\Artifacts\e7\e7796635366aec3f861892f5fae825bc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\e9\e9f2c44be66887ca833f853cc6bd7efe
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\e9\e9f2c44be66887ca833f853cc6bd7efe
+    projectPath: Library\Artifacts\e9\e9f2c44be66887ca833f853cc6bd7efe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\eb\eb129055e619bd3b9d88bf86b2b02b3a
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\eb\eb129055e619bd3b9d88bf86b2b02b3a
+    projectPath: Library\Artifacts\eb\eb129055e619bd3b9d88bf86b2b02b3a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\ed\edd6d26282cef9b3c1606936f050eab7
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\ed\edd6d26282cef9b3c1606936f050eab7
+    projectPath: Library\Artifacts\ed\edd6d26282cef9b3c1606936f050eab7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\f0\f014542142fe80db68170412eb192840
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\f0\f014542142fe80db68170412eb192840
+    projectPath: Library\Artifacts\f0\f014542142fe80db68170412eb192840
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\f0\f0532f8759a49cabdb69347d6fdd5f40
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\f0\f0532f8759a49cabdb69347d6fdd5f40
+    projectPath: Library\Artifacts\f0\f0532f8759a49cabdb69347d6fdd5f40
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\f9\f913fd7bee2085393c54dd843c790db7
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\f9\f913fd7bee2085393c54dd843c790db7
+    projectPath: Library\Artifacts\f9\f913fd7bee2085393c54dd843c790db7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\f9\f9b6fb21fb8a3b28d856c5b30577c525
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\f9\f9b6fb21fb8a3b28d856c5b30577c525
+    projectPath: Library\Artifacts\f9\f9b6fb21fb8a3b28d856c5b30577c525
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\f9\f9e993e030e7e3aa781c9f39f5302d5f
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\f9\f9e993e030e7e3aa781c9f39f5302d5f
+    projectPath: Library\Artifacts\f9\f9e993e030e7e3aa781c9f39f5302d5f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\fc\fc203a3c4e316c637e755cb9117ff5ec
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\fc\fc203a3c4e316c637e755cb9117ff5ec
+    projectPath: Library\Artifacts\fc\fc203a3c4e316c637e755cb9117ff5ec
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\fc\fcda07a8e033ca502d6eb9807dbfb120
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\fc\fcda07a8e033ca502d6eb9807dbfb120
+    projectPath: Library\Artifacts\fc\fcda07a8e033ca502d6eb9807dbfb120
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\fd\fd85ad3fc5c8ae0d2d3be9328dcb85f9
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\fd\fd85ad3fc5c8ae0d2d3be9328dcb85f9
+    projectPath: Library\Artifacts\fd\fd85ad3fc5c8ae0d2d3be9328dcb85f9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\fe\fe2d62f4f518351d899e885cf99f3cd2
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\fe\fe2d62f4f518351d899e885cf99f3cd2
+    projectPath: Library\Artifacts\fe\fe2d62f4f518351d899e885cf99f3cd2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\Artifacts\ff\ff1c23e0b2708c389c245e401d4e16fd
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\Artifacts\ff\ff1c23e0b2708c389c245e401d4e16fd
+    projectPath: Library\Artifacts\ff\ff1c23e0b2708c389c245e401d4e16fd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\CurrentLayout-default.dwlt
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProyectoFinal\Library\CurrentMaximizeLayout.dwlt
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\CurrentMaximizeLayout.dwlt
+    projectPath: Library\CurrentMaximizeLayout.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProyectoFinal\Library\EditorInstance.json
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProyectoFinal\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProyectoFinal\Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProyectoFinal\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProyectoFinal\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProyectoFinal\Library\gfu\cache\gituser.yaml
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProyectoFinal\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProyectoFinal\Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProyectoFinal\Library\SceneVisibilityState.asset
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProyectoFinal\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProyectoFinal\Library\SourceAssetDB
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProyectoFinal\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    projectPath: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProyectoFinal\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
+    projectPath: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProyectoFinal\Logs\ApiUpdaterCheck.txt
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Logs\ApiUpdaterCheck.txt
+    projectPath: Logs\ApiUpdaterCheck.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Logs\AssetImportWorker0.log
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Logs\AssetImportWorker0.log
+    projectPath: Logs\AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ProyectoFinal\Logs\AssetImportWorker0-prev.log
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Logs\AssetImportWorker0-prev.log
+    projectPath: Logs\AssetImportWorker0-prev.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ProyectoFinal\Logs\shadercompiler-AssetImportWorker0.log
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Logs\shadercompiler-AssetImportWorker0.log
+    projectPath: Logs\shadercompiler-AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ProyectoFinal\Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProyectoFinal\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProyectoFinal\packages.config
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\packages.config
+    projectPath: packages.config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\.signature.p7s
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\.signature.p7s
+    projectPath: Packages\System.Data.SqlClient.4.8.3\.signature.p7s
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\Icon.png
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\Icon.png
+    projectPath: Packages\System.Data.SqlClient.4.8.3\Icon.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\lib\MonoAndroid10\_._
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\lib\MonoAndroid10\_._
+    projectPath: Packages\System.Data.SqlClient.4.8.3\lib\MonoAndroid10\_._
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\lib\MonoTouch10\_._
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\lib\MonoTouch10\_._
+    projectPath: Packages\System.Data.SqlClient.4.8.3\lib\MonoTouch10\_._
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\lib\net451\System.Data.SqlClient.dll
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\lib\net451\System.Data.SqlClient.dll
+    projectPath: Packages\System.Data.SqlClient.4.8.3\lib\net451\System.Data.SqlClient.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\lib\net46\System.Data.SqlClient.dll
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\lib\net46\System.Data.SqlClient.dll
+    projectPath: Packages\System.Data.SqlClient.4.8.3\lib\net46\System.Data.SqlClient.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\lib\net461\System.Data.SqlClient.dll
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\lib\net461\System.Data.SqlClient.dll
+    projectPath: Packages\System.Data.SqlClient.4.8.3\lib\net461\System.Data.SqlClient.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\lib\net461\System.Data.SqlClient.xml
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\lib\net461\System.Data.SqlClient.xml
+    projectPath: Packages\System.Data.SqlClient.4.8.3\lib\net461\System.Data.SqlClient.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\lib\netcoreapp2.1\System.Data.SqlClient.dll
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\lib\netcoreapp2.1\System.Data.SqlClient.dll
+    projectPath: Packages\System.Data.SqlClient.4.8.3\lib\netcoreapp2.1\System.Data.SqlClient.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\lib\netcoreapp2.1\System.Data.SqlClient.xml
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\lib\netcoreapp2.1\System.Data.SqlClient.xml
+    projectPath: Packages\System.Data.SqlClient.4.8.3\lib\netcoreapp2.1\System.Data.SqlClient.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\lib\netstandard1.2\System.Data.SqlClient.dll
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\lib\netstandard1.2\System.Data.SqlClient.dll
+    projectPath: Packages\System.Data.SqlClient.4.8.3\lib\netstandard1.2\System.Data.SqlClient.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\lib\netstandard1.2\System.Data.SqlClient.xml
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\lib\netstandard1.2\System.Data.SqlClient.xml
+    projectPath: Packages\System.Data.SqlClient.4.8.3\lib\netstandard1.2\System.Data.SqlClient.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\lib\netstandard1.3\System.Data.SqlClient.dll
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\lib\netstandard1.3\System.Data.SqlClient.dll
+    projectPath: Packages\System.Data.SqlClient.4.8.3\lib\netstandard1.3\System.Data.SqlClient.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\lib\netstandard1.3\System.Data.SqlClient.xml
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\lib\netstandard1.3\System.Data.SqlClient.xml
+    projectPath: Packages\System.Data.SqlClient.4.8.3\lib\netstandard1.3\System.Data.SqlClient.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\lib\netstandard2.0\System.Data.SqlClient.dll
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\lib\netstandard2.0\System.Data.SqlClient.dll
+    projectPath: Packages\System.Data.SqlClient.4.8.3\lib\netstandard2.0\System.Data.SqlClient.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\lib\netstandard2.0\System.Data.SqlClient.xml
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\lib\netstandard2.0\System.Data.SqlClient.xml
+    projectPath: Packages\System.Data.SqlClient.4.8.3\lib\netstandard2.0\System.Data.SqlClient.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\lib\xamarinios10\_._
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\lib\xamarinios10\_._
+    projectPath: Packages\System.Data.SqlClient.4.8.3\lib\xamarinios10\_._
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\lib\xamarinmac20\_._
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\lib\xamarinmac20\_._
+    projectPath: Packages\System.Data.SqlClient.4.8.3\lib\xamarinmac20\_._
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\lib\xamarintvos10\_._
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\lib\xamarintvos10\_._
+    projectPath: Packages\System.Data.SqlClient.4.8.3\lib\xamarintvos10\_._
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\lib\xamarinwatchos10\_._
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\lib\xamarinwatchos10\_._
+    projectPath: Packages\System.Data.SqlClient.4.8.3\lib\xamarinwatchos10\_._
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\LICENSE.TXT
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\LICENSE.TXT
+    projectPath: Packages\System.Data.SqlClient.4.8.3\LICENSE.TXT
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\MonoAndroid10\_._
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\MonoAndroid10\_._
+    projectPath: Packages\System.Data.SqlClient.4.8.3\ref\MonoAndroid10\_._
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\MonoTouch10\_._
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\MonoTouch10\_._
+    projectPath: Packages\System.Data.SqlClient.4.8.3\ref\MonoTouch10\_._
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\net451\System.Data.SqlClient.dll
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\net451\System.Data.SqlClient.dll
+    projectPath: Packages\System.Data.SqlClient.4.8.3\ref\net451\System.Data.SqlClient.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\net46\System.Data.SqlClient.dll
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\net46\System.Data.SqlClient.dll
+    projectPath: Packages\System.Data.SqlClient.4.8.3\ref\net46\System.Data.SqlClient.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\net461\System.Data.SqlClient.dll
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\net461\System.Data.SqlClient.dll
+    projectPath: Packages\System.Data.SqlClient.4.8.3\ref\net461\System.Data.SqlClient.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\net461\System.Data.SqlClient.xml
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\net461\System.Data.SqlClient.xml
+    projectPath: Packages\System.Data.SqlClient.4.8.3\ref\net461\System.Data.SqlClient.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\netcoreapp2.1\System.Data.SqlClient.dll
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\netcoreapp2.1\System.Data.SqlClient.dll
+    projectPath: Packages\System.Data.SqlClient.4.8.3\ref\netcoreapp2.1\System.Data.SqlClient.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\netcoreapp2.1\System.Data.SqlClient.xml
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\netcoreapp2.1\System.Data.SqlClient.xml
+    projectPath: Packages\System.Data.SqlClient.4.8.3\ref\netcoreapp2.1\System.Data.SqlClient.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.2\de\System.Data.SqlClient.xml
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.2\de\System.Data.SqlClient.xml
+    projectPath: Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.2\de\System.Data.SqlClient.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.2\es\System.Data.SqlClient.xml
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.2\es\System.Data.SqlClient.xml
+    projectPath: Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.2\es\System.Data.SqlClient.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.2\fr\System.Data.SqlClient.xml
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.2\fr\System.Data.SqlClient.xml
+    projectPath: Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.2\fr\System.Data.SqlClient.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.2\it\System.Data.SqlClient.xml
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.2\it\System.Data.SqlClient.xml
+    projectPath: Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.2\it\System.Data.SqlClient.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.2\ja\System.Data.SqlClient.xml
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.2\ja\System.Data.SqlClient.xml
+    projectPath: Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.2\ja\System.Data.SqlClient.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.2\ko\System.Data.SqlClient.xml
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.2\ko\System.Data.SqlClient.xml
+    projectPath: Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.2\ko\System.Data.SqlClient.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.2\ru\System.Data.SqlClient.xml
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.2\ru\System.Data.SqlClient.xml
+    projectPath: Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.2\ru\System.Data.SqlClient.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.2\System.Data.SqlClient.dll
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.2\System.Data.SqlClient.dll
+    projectPath: Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.2\System.Data.SqlClient.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.2\System.Data.SqlClient.xml
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.2\System.Data.SqlClient.xml
+    projectPath: Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.2\System.Data.SqlClient.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.2\zh-hans\System.Data.SqlClient.xml
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.2\zh-hans\System.Data.SqlClient.xml
+    projectPath: Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.2\zh-hans\System.Data.SqlClient.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.2\zh-hant\System.Data.SqlClient.xml
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.2\zh-hant\System.Data.SqlClient.xml
+    projectPath: Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.2\zh-hant\System.Data.SqlClient.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.3\de\System.Data.SqlClient.xml
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.3\de\System.Data.SqlClient.xml
+    projectPath: Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.3\de\System.Data.SqlClient.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.3\es\System.Data.SqlClient.xml
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.3\es\System.Data.SqlClient.xml
+    projectPath: Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.3\es\System.Data.SqlClient.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.3\fr\System.Data.SqlClient.xml
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.3\fr\System.Data.SqlClient.xml
+    projectPath: Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.3\fr\System.Data.SqlClient.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.3\it\System.Data.SqlClient.xml
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.3\it\System.Data.SqlClient.xml
+    projectPath: Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.3\it\System.Data.SqlClient.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.3\ja\System.Data.SqlClient.xml
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.3\ja\System.Data.SqlClient.xml
+    projectPath: Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.3\ja\System.Data.SqlClient.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.3\ko\System.Data.SqlClient.xml
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.3\ko\System.Data.SqlClient.xml
+    projectPath: Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.3\ko\System.Data.SqlClient.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.3\ru\System.Data.SqlClient.xml
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.3\ru\System.Data.SqlClient.xml
+    projectPath: Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.3\ru\System.Data.SqlClient.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.3\System.Data.SqlClient.dll
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.3\System.Data.SqlClient.dll
+    projectPath: Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.3\System.Data.SqlClient.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.3\System.Data.SqlClient.xml
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.3\System.Data.SqlClient.xml
+    projectPath: Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.3\System.Data.SqlClient.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.3\zh-hans\System.Data.SqlClient.xml
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.3\zh-hans\System.Data.SqlClient.xml
+    projectPath: Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.3\zh-hans\System.Data.SqlClient.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.3\zh-hant\System.Data.SqlClient.xml
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.3\zh-hant\System.Data.SqlClient.xml
+    projectPath: Packages\System.Data.SqlClient.4.8.3\ref\netstandard1.3\zh-hant\System.Data.SqlClient.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\netstandard2.0\System.Data.SqlClient.dll
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\netstandard2.0\System.Data.SqlClient.dll
+    projectPath: Packages\System.Data.SqlClient.4.8.3\ref\netstandard2.0\System.Data.SqlClient.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\netstandard2.0\System.Data.SqlClient.xml
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\netstandard2.0\System.Data.SqlClient.xml
+    projectPath: Packages\System.Data.SqlClient.4.8.3\ref\netstandard2.0\System.Data.SqlClient.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\xamarinios10\_._
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\xamarinios10\_._
+    projectPath: Packages\System.Data.SqlClient.4.8.3\ref\xamarinios10\_._
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\xamarinmac20\_._
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\xamarinmac20\_._
+    projectPath: Packages\System.Data.SqlClient.4.8.3\ref\xamarinmac20\_._
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\xamarintvos10\_._
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\xamarintvos10\_._
+    projectPath: Packages\System.Data.SqlClient.4.8.3\ref\xamarintvos10\_._
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\xamarinwatchos10\_._
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\ref\xamarinwatchos10\_._
+    projectPath: Packages\System.Data.SqlClient.4.8.3\ref\xamarinwatchos10\_._
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+    projectPath: Packages\System.Data.SqlClient.4.8.3\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.xml
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.xml
+    projectPath: Packages\System.Data.SqlClient.4.8.3\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+    projectPath: Packages\System.Data.SqlClient.4.8.3\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+    projectPath: Packages\System.Data.SqlClient.4.8.3\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.xml
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.xml
+    projectPath: Packages\System.Data.SqlClient.4.8.3\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\runtimes\win\lib\net451\System.Data.SqlClient.dll
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\runtimes\win\lib\net451\System.Data.SqlClient.dll
+    projectPath: Packages\System.Data.SqlClient.4.8.3\runtimes\win\lib\net451\System.Data.SqlClient.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\runtimes\win\lib\net46\System.Data.SqlClient.dll
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\runtimes\win\lib\net46\System.Data.SqlClient.dll
+    projectPath: Packages\System.Data.SqlClient.4.8.3\runtimes\win\lib\net46\System.Data.SqlClient.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\runtimes\win\lib\net461\System.Data.SqlClient.dll
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\runtimes\win\lib\net461\System.Data.SqlClient.dll
+    projectPath: Packages\System.Data.SqlClient.4.8.3\runtimes\win\lib\net461\System.Data.SqlClient.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\runtimes\win\lib\net461\System.Data.SqlClient.xml
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\runtimes\win\lib\net461\System.Data.SqlClient.xml
+    projectPath: Packages\System.Data.SqlClient.4.8.3\runtimes\win\lib\net461\System.Data.SqlClient.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+    projectPath: Packages\System.Data.SqlClient.4.8.3\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.xml
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.xml
+    projectPath: Packages\System.Data.SqlClient.4.8.3\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+    projectPath: Packages\System.Data.SqlClient.4.8.3\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+    projectPath: Packages\System.Data.SqlClient.4.8.3\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.xml
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.xml
+    projectPath: Packages\System.Data.SqlClient.4.8.3\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\runtimes\win\lib\uap10.0.16299\System.Data.SqlClient.dll
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\runtimes\win\lib\uap10.0.16299\System.Data.SqlClient.dll
+    projectPath: Packages\System.Data.SqlClient.4.8.3\runtimes\win\lib\uap10.0.16299\System.Data.SqlClient.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\runtimes\win\lib\uap10.0.16299\System.Data.SqlClient.xml
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\runtimes\win\lib\uap10.0.16299\System.Data.SqlClient.xml
+    projectPath: Packages\System.Data.SqlClient.4.8.3\runtimes\win\lib\uap10.0.16299\System.Data.SqlClient.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\System.Data.SqlClient.4.8.3.nupkg
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\System.Data.SqlClient.4.8.3.nupkg
+    projectPath: Packages\System.Data.SqlClient.4.8.3\System.Data.SqlClient.4.8.3.nupkg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\THIRD-PARTY-NOTICES.TXT
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\THIRD-PARTY-NOTICES.TXT
+    projectPath: Packages\System.Data.SqlClient.4.8.3\THIRD-PARTY-NOTICES.TXT
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\useSharedDesignerContext.txt
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\useSharedDesignerContext.txt
+    projectPath: Packages\System.Data.SqlClient.4.8.3\useSharedDesignerContext.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\version.txt
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Packages\System.Data.SqlClient.4.8.3\version.txt
+    projectPath: Packages\System.Data.SqlClient.4.8.3\version.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\ProjectSettings\EditorBuildSettings.asset
     fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\ProjectSettings\EditorBuildSettings.asset
     projectPath: ProjectSettings\EditorBuildSettings.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: UserSettings\EditorUserSettings.asset
+  - path: ProyectoFinal\ProjectSettings\SceneTemplateSettings.json
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\ProjectSettings\SceneTemplateSettings.json
+    projectPath: ProjectSettings\SceneTemplateSettings.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\ProjectSettings\TagManager.asset
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProyectoFinal\Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Temp\UnityLockfile
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\Temp\workerlic
+    fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\Temp\workerlic
+    projectPath: Temp\workerlic
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProyectoFinal\UserSettings\EditorUserSettings.asset
     fullPath: C:\Users\itj18\OneDrive\Documentos\GitHub\Unity2022\ProyectoFinal\UserSettings\EditorUserSettings.asset
     projectPath: UserSettings\EditorUserSettings.asset
     originalPath: 

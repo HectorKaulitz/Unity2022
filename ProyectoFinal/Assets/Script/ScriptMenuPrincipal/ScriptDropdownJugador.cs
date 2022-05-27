@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class ScriptDropdownJugador : MonoBehaviour
 {
     //Create a List of new Dropdown options
-    List<string> opciones = new List<string> { "Option 1", "Option 2" };
+    List<string> opciones = new List<string> { "Jugador 1", "Jugador 2" };
     //This is the Dropdown
     Dropdown dropdown;
     // Start is called before the first frame update
