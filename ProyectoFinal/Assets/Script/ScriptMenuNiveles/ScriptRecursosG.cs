@@ -18,7 +18,8 @@ public class ScriptRecursosG : MonoBehaviour
 
     void Start()
     {
-
+        StaticVariablesGenerales.escenaAnterior = "Menu";
+        StaticVariablesGenerales.escenaActual = "EscenaSeleccion";
         btnNext = GameObject.Find("btnNext").GetComponent<Button>();
         btnPreview = GameObject.Find("btnPreview").GetComponent<Button>();
         sprites = new List<Sprite>();
@@ -37,7 +38,7 @@ public class ScriptRecursosG : MonoBehaviour
             else
             {
                 titulosSprites.Add(Resources.Load<Sprite>("Textos/txtNumero"));
-                sprites.Add(Resources.Load<Sprite>("Numeros/0"));
+                //sprites.Add(Resources.Load<Sprite>("Numeros/0"));
                 sprites.Add(Resources.Load<Sprite>("Numeros/1"));
                 sprites.Add(Resources.Load<Sprite>("Numeros/2"));
                 sprites.Add(Resources.Load<Sprite>("Numeros/3"));
@@ -54,10 +55,10 @@ public class ScriptRecursosG : MonoBehaviour
 
         }
 
-        obG = GameObject.Find("TituloTipoJuego");
-        sr = obG.GetComponent<SpriteRenderer>();
-        sr.sprite = titulosSprites[0];
-        CargarNivel(StaticVariablesGenerales.tipoNivel);
+        //obG = GameObject.Find("TituloTipoJuego");
+        //sr = obG.GetComponent<SpriteRenderer>();
+        //sr.sprite = titulosSprites[0];
+        CargarNivel();
         
     }
 
@@ -85,7 +86,7 @@ public class ScriptRecursosG : MonoBehaviour
     }
   
 
-    public void CargarNivel(int tipo)
+    public void CargarNivel()
     {
         imagen = GetComponent<Image>();
        
@@ -95,7 +96,15 @@ public class ScriptRecursosG : MonoBehaviour
             t = imagen.rectTransform;
             t.rect.Set(0, 0, 250, 250);
             //t.sizeDelta = new Vector2(64, 64);
-            imagen.sprite = sprites[StaticVariablesGenerales.tipoNivel];
+            if (StaticVariablesGenerales.tipoJuego == 1)
+            {
+                imagen.sprite = sprites[StaticVariablesGenerales.tipoNivel];
+            }
+            else
+            {
+                imagen.sprite = sprites[StaticVariablesGenerales.tipoNivel - 1];
+            }
+
         }
         catch (Exception ex)
         {

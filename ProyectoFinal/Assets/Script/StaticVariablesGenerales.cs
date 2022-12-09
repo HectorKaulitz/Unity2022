@@ -12,9 +12,21 @@ namespace Assets.Script
 
         public static int tipoNivel { get; set; }// saber que numero o letra es
 
-        public static int numeroNivelMinimo {get;set;}//saber cual es el nivel minimo
+        public static int tipoSubNivel { get; set; }//tipo d ejuego dentro del tipo
 
-        public static int numeroNivelMaximo{ get; set; }//saber cuale s el nivel maximo
+        public static string recurso { get; set; }//vocal,numero
+
+        public static int puntuacionNivelActual { get; set; }
+
+        public static int dificultadNivel { get; set; }
+
+        public static int aciertos { get; set; }
+
+        public static float tiempoJugado{get;set;}
+
+        public static int numeroNivelMinimo { get; set; }//saber cual es el nivel minimo
+
+        public static int numeroNivelMaximo { get; set; }//saber cuale s el nivel maximo
 
         public static string idJugador { get; set; }//id unico del jugador que esta cargado
 
@@ -23,5 +35,29 @@ namespace Assets.Script
         public static int puntuacion { get; set; }//puntuacion del jugador
 
         public static string caracter { get; set; }//representacion de letra o vocal que toca
+        //configuracion
+        public static int volumenMusica { get; set; }//volumen de las musica ambiente
+
+        public static int volumenSonido { get; set; }//volumen de los sonidos,como click etc
+
+        public static int iluminacion { get; set; }//iluminacion
+
+        //cambio escenas
+        public static string escenaActual { get; set; }//saber que escena esta cargada
+
+        public static string escenaAnterior { get; set; }//saber que escena venimos
+
+        //personajes
+        public static string PersonajeActual { get; set; }
+        public static int numeroActualPersonaje { get; set; }
+        public static int numeroPersonajeMinimo { get; set; }//saber cual es el nivel minimo
+
+        public static int numeroPersonajeMaximo { get; set; }//saber cuale s el nivel maximo
+
+        //niveles escolares
+        public static int nivelEscolarActual { get; set; }
+        public static int nivelEscolarMinimo { get; set; }//saber cual es el nivel minimo
+
+        public static int nivelEscolarMaximo { get; set; }//saber cuale s el nivel maximo
     }
 }

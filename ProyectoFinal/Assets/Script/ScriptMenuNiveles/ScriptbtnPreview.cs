@@ -28,6 +28,6 @@ public class ScriptbtnPreview : MonoBehaviour
         sonidoClick = GameObject.Find("SonidoClip").GetComponent<AudioSource>();
         sonidoClick.Play();
         Image imagen = GameObject.Find("ImagenNivel").GetComponent<Image>();
-        imagen.GetComponent<ScriptRecursosG>().CargarNivel(StaticVariablesGenerales.tipoNivel);
+        imagen.GetComponent<ScriptRecursosG>().CargarNivel();
     }
 }

@@ -1,3 +1,4 @@
+using Assets.Script;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -5,9 +6,9 @@ using UnityEngine.UI;
 
 public class GameManager : MonoBehaviour
 {
-    private Texture2D cursorTexture;
-    private CursorMode cursorMode = CursorMode.Auto;
-    private Vector2 hotSpot = Vector2.zero;
+    public Texture2D cursorTexture;
+    private CursorMode cursorMode = CursorMode.ForceSoftware;
+    
 
     private AudioSource sonidoClick;
     private Button btnVocales, btnNumeros;
@@ -15,48 +16,45 @@ public class GameManager : MonoBehaviour
 
     void Start()
     {
-      
-
+        StaticVariablesGenerales.escenaAnterior = "Inicio";
+        StaticVariablesGenerales.escenaActual = "Menu";
         //btnVocales=GameObject.Find("BtnVocales").GetComponent<Button>();
         //btnNumeros = GameObject.Find("BtnNumeros").GetComponent<Button>();
         //btnVocales.onClick.AddListener(OnclickVocales);
         //btnNumeros.onClick.AddListener(OnclickNumeros);
+        Cursor.SetCursor(cursorTexture, Vector2.zero, cursorMode);
+        GameObject.Find("imagenPersonaje").GetComponent<Image>().sprite = Resources.Load<Sprite>("Personajes/"+StaticVariablesGenerales.PersonajeActual);
+       
+
+
     }
     // Update is called once per frame
     void Update()
     {
-        
 
-    }
-    private void OnclickVocales()
-    {
-        ReproducirSonidoClick();
-    }
 
-    private void OnclickNumeros()
-    {
-        ReproducirSonidoClick();
     }
 
     private void ReproducirSonidoClick()
     {
         sonidoClick = GameObject.Find("SonidoClip").GetComponent<AudioSource>();
         sonidoClick.Play();
+        
     }
 
-    void OnGUI()
-    {
-        Cursor.lockState = CursorLockMode.None;
-        Cursor.visible = true;
-    }
+    //void OnGUI()
+    //{
+    //    Cursor.lockState = CursorLockMode.None;
+    //    Cursor.visible = true;
+    //}
 
-    void OnMouseEnter()
-    {
-        Cursor.SetCursor(cursorTexture, hotSpot, cursorMode);
-    }
+    //void OnMouseEnter()
+    //{
+    //    Cursor.SetCursor(cursorTexture, hotSpot, cursorMode);
+    //}
 
-    void OnMouseExit()
-    {
-        Cursor.SetCursor(null, Vector2.zero, cursorMode);
-    }
+    //void OnMouseExit()
+    //{
+    //    Cursor.SetCursor(null, Vector2.zero, cursorMode);
+    //}
 }

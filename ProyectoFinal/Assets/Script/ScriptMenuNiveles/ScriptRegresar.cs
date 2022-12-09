@@ -1,3 +1,4 @@
+using Assets.Script;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -9,7 +10,8 @@ public class ScriptRegresar : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        StaticVariablesGenerales.escenaActual = "EscenaSeleccion";
+
     }
 
     // Update is called once per frame

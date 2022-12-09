@@ -1,3 +1,4 @@
+using Assets.Script;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -8,7 +9,7 @@ public class ScriptConfiguracion : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+       
     }
 
     // Update is called once per frame
@@ -19,6 +20,8 @@ public class ScriptConfiguracion : MonoBehaviour
 
     public void AbrirConfiguracion()
     {
+        StaticVariablesGenerales.escenaAnterior = "Menu";
+        StaticVariablesGenerales.escenaActual = "Configuracion";
         SceneManager.LoadScene("Configuracion");
     }
 }
