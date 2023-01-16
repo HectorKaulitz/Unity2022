@@ -9,11 +9,11 @@ EditorBuildSettings:
     path: Assets/Scenes/Inicio.unity
     guid: aa90c72336380944488efac7363c8e50
   - enabled: 1
-    path: Assets/Scenes/MenuSeleccionEscolar.unity
-    guid: 8b5ea658611397b4da5c82fed893925c
-  - enabled: 1
     path: Assets/Scenes/Menu.unity
     guid: a9bcb3a0e7e3c7a4796331c1be7e06c0
+  - enabled: 1
+    path: Assets/Scenes/MenuSeleccionJuego.unity
+    guid: 8b5ea658611397b4da5c82fed893925c
   - enabled: 1
     path: Assets/Scenes/EscenaSeleccion.unity
     guid: 115ba25f9456dc74bbba5821c0e43652
@@ -35,7 +35,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/EscenaJuegoOperacionesBasicas.unity
     guid: c30a247e5d1462a47ab444bb63d2f5b6
+  - enabled: 1
+    path: Assets/Scenes/EscenaJuegoCompletadoLetras.unity
+    guid: 062307fb1be59b947b784ba23c0f2fd6
   - enabled: 0
-    path: Assets/Scenes/Scene-final.unity
-    guid: a3818f0568af89b4da8c828b16892f60
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/EscenaJuegoAbaco.unity
+    guid: 2f5f2f18002055440a7be71ac80eb6b6
+  - enabled: 1
+    path: Assets/Scenes/EscenaJuegoPares.unity
+    guid: 342d8d2cc606dc04eb888175ca5eecf7
   m_configObjects: {}

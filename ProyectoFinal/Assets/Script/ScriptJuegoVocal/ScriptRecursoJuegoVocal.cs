@@ -15,8 +15,8 @@ public class ScriptRecursoJuegoVocal : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        StaticVariablesGenerales.escenaAnterior = "EscenaSeleccion";
-        StaticVariablesGenerales.escenaActual = "EscenaJuegoVocal";
+       
+       
         StaticVariablesGenerales.puntuacionNivelActual = 100;
         
         StaticVariablesGenerales.aciertos = 0;
@@ -65,7 +65,7 @@ public class ScriptRecursoJuegoVocal : MonoBehaviour
         if (StaticVariablesGenerales.tipoJuego == 1)//vocales
         {
             //IMAGEN VOCAL 
-            GameObject.Find("Recurso").GetComponent<Image>().sprite = Resources.Load<Sprite>("Vocales/" + StaticVariablesGenerales.recurso.ToString().ToUpper()); ;
+            GameObject.Find("Recurso").GetComponent<Image>().sprite = Resources.Load<Sprite>("Abecedario/" + StaticVariablesGenerales.recurso.ToString().ToUpper()); ;
 
             //SPRITES VOCAL VALIDA
             for (int i = 1; i < 6; i++)

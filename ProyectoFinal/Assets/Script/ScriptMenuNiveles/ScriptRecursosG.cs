@@ -18,8 +18,8 @@ public class ScriptRecursosG : MonoBehaviour
 
     void Start()
     {
-        StaticVariablesGenerales.escenaAnterior = "Menu";
-        StaticVariablesGenerales.escenaActual = "EscenaSeleccion";
+       
+        
         btnNext = GameObject.Find("btnNext").GetComponent<Button>();
         btnPreview = GameObject.Find("btnPreview").GetComponent<Button>();
         sprites = new List<Sprite>();
@@ -29,11 +29,11 @@ public class ScriptRecursosG : MonoBehaviour
             if (StaticVariablesGenerales.tipoJuego == 1)
             {
                 titulosSprites.Add(Resources.Load<Sprite>("Textos/txtVocal"));
-                sprites.Add(Resources.Load<Sprite>("Vocales/A"));
-                sprites.Add(Resources.Load<Sprite>("Vocales/E"));
-                sprites.Add(Resources.Load<Sprite>("Vocales/I"));
-                sprites.Add(Resources.Load<Sprite>("Vocales/O"));
-                sprites.Add(Resources.Load<Sprite>("Vocales/U"));
+                sprites.Add(Resources.Load<Sprite>("Abecedario/A"));
+                sprites.Add(Resources.Load<Sprite>("Abecedario/E"));
+                sprites.Add(Resources.Load<Sprite>("Abecedario/I"));
+                sprites.Add(Resources.Load<Sprite>("Abecedario/O"));
+                sprites.Add(Resources.Load<Sprite>("Abecedario/U"));
             }
             else
             {

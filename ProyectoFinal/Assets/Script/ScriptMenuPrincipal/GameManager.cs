@@ -16,8 +16,8 @@ public class GameManager : MonoBehaviour
 
     void Start()
     {
-        StaticVariablesGenerales.escenaAnterior = "Inicio";
-        StaticVariablesGenerales.escenaActual = "Menu";
+        
+       
         //btnVocales=GameObject.Find("BtnVocales").GetComponent<Button>();
         //btnNumeros = GameObject.Find("BtnNumeros").GetComponent<Button>();
         //btnVocales.onClick.AddListener(OnclickVocales);

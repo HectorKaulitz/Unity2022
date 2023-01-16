@@ -27,7 +27,7 @@ public class ScriptRecursosOperacionesBasicas : MonoBehaviour
         Cursor.SetCursor(cursorTexture, Vector2.zero, cursorMode);
         tipoOperador = "-";
 
-        StaticVariablesGenerales.escenaActual = "EscenaJuegoOperacionesBasicas";
+       
         numeros = new List<Sprite>();
         reaccionesBuenas = new List<Sprite>();
         reaccionesMalas = new List<Sprite>();

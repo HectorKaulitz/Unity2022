@@ -30,6 +30,7 @@ public class ScriptbtnSeleccionar : MonoBehaviour
         catch (Exception ex)
         {
         }
-        SceneManager.LoadScene(StaticVariablesGenerales.escenaAnterior);
+        StaticVariablesGenerales.RegresarEscenaAnterior();
+       
     }
 }

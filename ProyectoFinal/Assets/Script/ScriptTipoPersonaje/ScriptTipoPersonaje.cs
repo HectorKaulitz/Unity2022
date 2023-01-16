@@ -20,7 +20,7 @@ public class ScriptTipoPersonaje : MonoBehaviour
     {
         btnNext = GameObject.Find("btnNext").GetComponent<Button>();
         btnPreview = GameObject.Find("btnPreview").GetComponent<Button>();
-        StaticVariablesGenerales.escenaActual = "SeleccionTipoPersonaje";
+       
         StaticVariablesGenerales.numeroActualPersonaje = pos;
         imagenPersonaje = GameObject.Find("ImagenPersonaje").GetComponent<Image>();
         fondo = GameObject.Find("fondoInterno");

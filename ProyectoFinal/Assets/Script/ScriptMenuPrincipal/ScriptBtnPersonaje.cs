@@ -28,7 +28,7 @@ public class ScriptBtnPersonaje : MonoBehaviour
         catch (Exception ex)
         {
         }
-        StaticVariablesGenerales.escenaAnterior = "Menu";
-        SceneManager.LoadScene("SeleccionTipoPersonaje");
+       
+        StaticVariablesGenerales.MostrarEscena("SeleccionTipoPersonaje");
     }
 }

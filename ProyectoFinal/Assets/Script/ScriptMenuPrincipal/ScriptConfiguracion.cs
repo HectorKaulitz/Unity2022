@@ -20,8 +20,8 @@ public class ScriptConfiguracion : MonoBehaviour
 
     public void AbrirConfiguracion()
     {
-        StaticVariablesGenerales.escenaAnterior = "Menu";
-        StaticVariablesGenerales.escenaActual = "Configuracion";
-        SceneManager.LoadScene("Configuracion");
+       
+        StaticVariablesGenerales.MostrarEscena("Configuracion");
+        
     }
 }

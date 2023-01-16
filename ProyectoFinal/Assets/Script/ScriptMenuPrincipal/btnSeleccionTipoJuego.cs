@@ -10,7 +10,7 @@ public class btnSeleccionTipoJuego : MonoBehaviour
 {
     private Image imagen;
     //private GameObject fondo;
-    private int pos = 0;
+   
     private Button btnNext, btnPreview;
     private List<Sprite> niveles;
     public Texture2D cursorTexture;
@@ -41,7 +41,7 @@ public class btnSeleccionTipoJuego : MonoBehaviour
         //inicializa la lista 
 
         niveles.Add(Resources.Load<Sprite>("letrasFondo"));
-        niveles.Add(Resources.Load<Sprite>("numeros"));
+        niveles.Add(Resources.Load<Sprite>("numerosFondo"));
 
         tipoMaximo = niveles.Count - 1;
         if (niveles.Count > 0)
@@ -101,26 +101,21 @@ public class btnSeleccionTipoJuego : MonoBehaviour
     {
         try
         {
-            StaticVariablesGenerales.escenaAnterior = "Menu";
+            
             GameObject.Find("SonidoClip").GetComponent<AudioSource>().Play();
             switch (StaticVariablesGenerales.tipoJuego)
             {
                 case 1:
                     StaticVariablesGenerales.tipoJuego = 1;
-                    StaticVariablesGenerales.tipoNivel = 0;
-                    StaticVariablesGenerales.numeroNivelMinimo = 0;
-                    StaticVariablesGenerales.numeroNivelMaximo = 4;
                     break;
                 case 2:
                     StaticVariablesGenerales.tipoJuego = 2;
-                    StaticVariablesGenerales.tipoNivel = 1;
-                    StaticVariablesGenerales.numeroNivelMinimo = 1;
-                    StaticVariablesGenerales.numeroNivelMaximo = 9;
                    
                     
                     break;
             }
-            SceneManager.LoadScene("EscenaSeleccion");
+            //StaticVariablesGenerales.MostrarEscena("EscenaSeleccion");
+            StaticVariablesGenerales.MostrarEscena("MenuSeleccionJuego");
         }
         catch (Exception ex)
         {

@@ -3,11 +3,15 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using UnityEngine.SceneManagement;
 
 namespace Assets.Script
 {
     static class StaticVariablesGenerales
     {
+        //seleccion tipo de juego
+        public static List<Juego> listaJuegosLetras;
+    public static List<Juego> listaJuegosNumericos;
         public static int tipoJuego { get; set; }//si son vocales o numero 
 
         public static int tipoNivel { get; set; }// saber que numero o letra es
@@ -42,10 +46,40 @@ namespace Assets.Script
 
         public static int iluminacion { get; set; }//iluminacion
 
-        //cambio escenas
-        public static string escenaActual { get; set; }//saber que escena esta cargada
 
-        public static string escenaAnterior { get; set; }//saber que escena venimos
+        //cambio escenas
+        private static List<string> escenas { get; set; }
+
+        public static void MostrarEscena(string escena)
+        {
+            if (escenas == null)
+            {
+                escenas = new List<string>();
+                escenas.Add("Inicio");
+            }
+            escenas.Add(escena);
+            SceneManager.LoadScene(escena);
+
+        }
+
+        public static void RegresarEscenaAnterior()
+        {
+            if (escenas != null && escenas.Count > 0)
+            {
+                //SceneManager.UnloadScene(escenas[escenas.Count - 1]);
+                escenas.RemoveAt(escenas.Count - 1);
+                SceneManager.LoadScene(escenas[escenas.Count - 1]);
+            }
+        }
+
+        public static void ReiniciarEscena() 
+        {
+            SceneManager.LoadScene(escenas[escenas.Count - 1]);
+
+        }
+        //public static string escenaActual { get; set; }//saber que escena esta cargada
+
+        //public static string escenaAnterior { get; set; }//saber que escena venimos
 
         //personajes
         public static string PersonajeActual { get; set; }

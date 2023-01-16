@@ -25,12 +25,12 @@ public class ScriptBtnVocales : MonoBehaviour
         StaticVariablesGenerales.tipoNivel = 0;
         StaticVariablesGenerales.numeroNivelMinimo = 0;
         StaticVariablesGenerales.numeroNivelMaximo = 4;
-        StaticVariablesGenerales.escenaAnterior = "Menu";
+       
         //StaticVariablesGenerales.escenaActual = "EscenaSeleccion";
         sonidoClick = GameObject.Find("SonidoClip").GetComponent<AudioSource>();
         sonidoClick.Play();
         //Thread.Sleep(3000);
-        SceneManager.LoadScene("EscenaSeleccion");
+        StaticVariablesGenerales.MostrarEscena("EscenaSeleccion");
     }
 
 }

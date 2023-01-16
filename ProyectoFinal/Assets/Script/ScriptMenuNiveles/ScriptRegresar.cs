@@ -10,7 +10,7 @@ public class ScriptRegresar : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        StaticVariablesGenerales.escenaActual = "EscenaSeleccion";
+        
 
     }
 

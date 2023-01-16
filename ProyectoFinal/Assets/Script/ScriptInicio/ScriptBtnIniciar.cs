@@ -52,11 +52,11 @@ public class ScriptBtnIniciar : MonoBehaviour
         /*if (new ConexionBD().AbrirConexionBD())//existe conexion con bd de datos
         {*/
 
-            StaticVariablesGenerales.escenaAnterior = "Inicio";
+           
             dialogoCOnexion.SetActive(false);
             btnIniciar.SetActive(true);
             fondoBtn.SetActive(true);
-            SceneManager.LoadScene("Menu");
+         StaticVariablesGenerales.MostrarEscena("Menu");
        /* }
         else
         {

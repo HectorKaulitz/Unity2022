@@ -50,6 +50,6 @@ public class ScriptReiniciar : MonoBehaviour
     public void ReiniciarEscena()
     {
         GameObject.Find("SonidoClip").GetComponent<AudioSource>().Play();
-        SceneManager.LoadScene(StaticVariablesGenerales.escenaActual);
+        StaticVariablesGenerales.ReiniciarEscena();
     }
 }

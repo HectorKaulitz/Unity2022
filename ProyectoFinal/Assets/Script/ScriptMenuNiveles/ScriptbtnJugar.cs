@@ -23,17 +23,17 @@ public class ScriptbtnJugar : MonoBehaviour
         catch (Exception ex)
         {
         }
-        StaticVariablesGenerales.escenaAnterior = "EscenaSeleccion";
+        
         StaticVariablesGenerales.recurso = GameObject.Find("ImagenNivel").GetComponent<Image>().sprite.name.ToString();
         if (StaticVariablesGenerales.tipoJuego == 1 || (StaticVariablesGenerales.tipoJuego == 2 && StaticVariablesGenerales.tipoSubNivel==1))
         {
-            SceneManager.LoadScene("EscenaJuegoVocal");
+            StaticVariablesGenerales.MostrarEscena("EscenaJuegoVocal");
         }
         else
         {
             if(StaticVariablesGenerales.tipoJuego == 2 && StaticVariablesGenerales.tipoSubNivel == 0)
             {
-                SceneManager.LoadScene("sceneJuegoNum");
+                StaticVariablesGenerales.MostrarEscena("sceneJuegoNum");
             }
         }
 

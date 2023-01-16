@@ -25,8 +25,7 @@ public class init : MonoBehaviour
     void Start()
     {
         vidas = 3;
-        StaticVariablesGenerales.escenaAnterior = "EscenaSeleccion";
-        StaticVariablesGenerales.escenaActual = "sceneJuegoNum";
+       
         StaticVariablesGenerales.puntuacionNivelActual = 100;
         StaticVariablesGenerales.tiempoJugado = Time.time;
         scf = FindObjectOfType<SceneFinal>();

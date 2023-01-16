@@ -23,12 +23,14 @@ public class ScriptCancelar : MonoBehaviour
     {
         try 
         { 
-            GameObject.Find("SonidoClip").GetComponent<AudioSource>().Play(); 
+            GameObject.Find("SonidoClip").GetComponent<AudioSource>().Play();
+            StaticVariablesGenerales.RegresarEscenaAnterior();
         }
         catch(Exception ex)
         {
-        }
-        SceneManager.LoadScene(StaticVariablesGenerales.escenaAnterior);
 
+        }
+        
+       
     }
 }
